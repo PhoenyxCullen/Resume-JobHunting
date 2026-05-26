@@ -1,0 +1,18 @@
+# ALLEN SCHULTZ
+Medford, OR 97504  
+801-550-0865 | allen.schultz@gmail.com  
+LinkedIn: linkedin.com/in/allen-schultz-89810014
+
+26 Apr 2026
+
+ODOT
+
+Dear Hiring Manager,
+
+I am writing to express my strong interest in the Real ID Specialist (Medford) role at ODOT. I'm currently looking for work to not be unemployed at this time and have training money for a DevOps position in the future. I have had previous babysititng experience (not on my resume), but only for one time. I'm not sure how relevant that is to this position.
+
+Thank you for considering my application. I look forward to discussing how I can contribute to ODOT's success.
+
+Sincerely,
+
+Allen Schultz

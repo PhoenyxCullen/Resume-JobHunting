@@ -1,0 +1,402 @@
+% Compile with: xelatex
+\documentclass[9pt,letterpaper]{extarticle}
+
+\usepackage{fontspec}
+\setmainfont[Ligatures=NoCommon]{Georgia}
+
+\usepackage[top=0.55in, bottom=0.55in, left=0.65in, right=0.65in]{geometry}
+\usepackage{titlesec}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+\usepackage{xcolor}
+\usepackage{microtype}
+\usepackage{setspace}
+\usepackage{fancyhdr}
+\usepackage{lastpage}
+
+\setstretch{1.2}
+
+\definecolor{accent}{RGB}{0,0,0}
+
+\titleformat{\section}
+  {\singlespacing\fontsize{9.5}{11.4}\selectfont\bfseries}
+  {}
+  {0em}
+  {\rule{\linewidth}{0.8pt}\\[-2pt]}
+  [\vspace{-8pt}{\color{black!35}\rule{\linewidth}{0.3pt}}]
+\titlespacing*{\section}{0pt}{-5pt}{4pt}
+
+\pagestyle{fancy}
+\fancyhf{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+\fancyfoot[C]{\footnotesize\color{accent}Allen Schultz \textbar{} Page \thepage{} of \pageref{LastPage}}
+\setlist[itemize]{noitemsep, topsep=1pt, itemsep=1pt, parsep=0pt, partopsep=0pt, leftmargin=1.3em, label=\textbullet, beginpenalty=9999, midpenalty=9000}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{3pt}
+\widowpenalty=9999
+\clubpenalty=9999
+
+\begin{document}
+
+% ── HEADER ────────────────────────────────────────────────────────────────────
+\begin{center}
+  % Name at exactly 14pt — the maximum allowed
+  {\fontsize{14}{16.8}\bfseries\color{accent}\selectfont ALLEN SCHULTZ}\\[3pt]
+  % Subtitle at 11pt (normalsize)
+  {\normalsize\itshape Technical Professional \textbar{} Linux Administration \textbar{} Network Infrastructure \textbar{} IT Support \textbar{} Data Entry \& Administrative Operations}\\[4pt]
+  {\small
+    Medford, OR 97504 \textbar{} 801-550-0865 \textbar{}
+    \href{mailto:allen.schultz@gmail.com}{allen.schultz@gmail.com} \textbar{}
+    \href{https://linkedin.com/in/allen-schultz-89810014}{linkedin.com/in/allen-schultz-89810014} \textbar{}
+    \href{https://github.com/PhoenyxCullen}{github.com/PhoenyxCullen}
+  }
+\end{center}
+\vspace{2pt}
+\noindent\textit{\small Master archive resume --- all employment history. Tailored resumes derived from this document.}
+
+% ── PROFESSIONAL SUMMARY ──────────────────────────────────────────────────────
+\section*{PROFESSIONAL SUMMARY}
+
+Technically versatile professional with 25+ years of experience spanning Linux system administration, network infrastructure, IT help desk support, data entry, VoIP administration, and general office operations. Deep expertise in Debian-based Linux systems, Cisco networking, FreeSWITCH VoIP, and infrastructure automation. Proven track record in high-volume data processing, remote technical support, and multi-platform system administration. Currently completing Boot.dev full-stack development program and pursuing Linux Foundation certifications. Seeking remote roles in Linux/DevOps, IT support, NOC operations, network administration, data entry, or technical office administration.
+
+\smallskip
+\textbf{Core Competencies:}\\
+Linux Administration (Debian, Ubuntu, Arch) \textbullet{}
+Cisco Networking (VLANs, ACLs, Routing) \textbullet{}
+IT Help Desk \& Remote Support (TeamViewer) \textbullet{}
+Data Entry \& Verification \textbullet{}
+VoIP (FreeSWITCH, SIP) \textbullet{}
+DevOps \& Automation (Bash, Docker, Git) \textbullet{}
+Active Directory \& Windows Administration \textbullet{}
+Microsoft Office Suite \& Google Workspace \textbullet{}
+Network Operations \& Security \textbullet{}
+AS/400 Systems
+
+% ── TECHNICAL SKILLS ──────────────────────────────────────────────────────────
+\section*{TECHNICAL SKILLS}
+
+\noindent\textbf{Operating Systems:} Linux (Debian, Ubuntu, Arch, Manjaro, Qubes OS), Windows XP--11, Windows Server 2003--2022
+
+\noindent\textbf{Virtualization:} Qubes OS (Xen hypervisor), VirtualBox, KVM, GPU passthrough, VM security isolation
+
+\noindent\textbf{Storage \& Filesystems:} Btrfs (subvolumes, snapshots, compression), LVM, LUKS encryption, RAID configurations
+
+\noindent\textbf{Programming \& Scripting:} Bash, Python (Boot.dev --- completed; Linux), Go (Boot.dev --- in progress), C (academic --- Windows, macOS 6--9, Linux), C++ (academic), Java (academic; application use on Linux via OpenJDK), basic Perl/PHP
+
+\noindent\textbf{CS Fundamentals:} Data structures (bags, trees, queues, stacks), algorithm design (time complexity, memory/space optimization), programming design, software engineering principles
+
+\noindent\textbf{Networking:} Cisco IOS, routing/switching, VLANs, ACLs, routing protocols, T1/Frame Relay, SDN concepts
+
+\noindent\textbf{VoIP:} FreeSWITCH PBX, SIP phone provisioning and automation, Asterisk, hunt groups, voicemail, fax integration
+
+\noindent\textbf{DevOps \& Automation:} Docker, Git/GitLab, PXE/TFTP boot environments, automated deployment scripts, infrastructure automation
+
+\noindent\textbf{Security:} LUKS full-disk encryption, VM-based security isolation, CompTIA Security+, DoD compliance, secure architecture
+
+\noindent\textbf{Remote Support \& Administration:} TeamViewer (web-based remote support), Remote Desktop (RDP, VNC), SSH administration
+
+\noindent\textbf{Office \& Productivity:} Microsoft Office Suite (Word, Excel, Access, Outlook --- 97 through 2010), Google Workspace (Docs, Sheets, Gmail, Drive), LibreOffice; basic spreadsheet functions (formulas, filtering, sorting)
+
+\noindent\textbf{Data Entry \& Processing:} Keyboard typing (\textasciitilde{}60--80 WPM), high-volume production data entry, order management systems, address image coding (USPS production speed), data verification and reconciliation
+
+\noindent\textbf{Legacy \& Specialized Systems:} AS/400 (IBM iSeries), DOSBox/legacy DOS application support
+
+\noindent\textbf{Tools:} PXE/TFTP boot servers, package management (apt, pacman, yum), Timeshift backup, systemd
+
+% ── TECHNICAL PROJECTS ────────────────────────────────────────────────────────
+\section*{TECHNICAL PROJECTS \& LAB EXPERIENCE}
+
+\noindent\textbf{Qubes OS Security Research Platform} (System76 Bonobo WS)\hfill\textit{2024--Present}\\
+\textit{High-performance security-focused virtualization and learning environment}
+\begin{itemize}[beginpenalty=10000, topsep=0pt]
+  \item Running Qubes OS 4.3 RC3 (pre-release Xen-based security hypervisor) on Intel Core i9-14900HX (24 cores, 64GB DDR5 RAM)
+  \item Implemented security-by-isolation architecture: vault qube (air-gapped) for key storage, Whonix integration, compartmentalized work/personal/untrusted VMs
+  \item LUKS-encrypted storage with hardware-backed VM isolation (Intel VT-x, VT-d); evaluating GPU passthrough for isolated workloads
+  \item 3x 3.6TB NVMe drives (10.8TB enterprise storage), dual-GPU architecture
+  \item \textit{Skills: Xen hypervisor, VM security isolation, pre-release testing, hardware compatibility troubleshooting, Whonix/Tor privacy research}
+\end{itemize}
+
+\vspace{4pt}
+\noindent\textbf{Advanced Storage Architecture Design} (Desktop Workstation --- In Planning)\\
+\textit{Enterprise-grade storage solution design for production deployment}
+\begin{itemize}
+  \item Designed Btrfs-on-LVM-on-LUKS across 5-drive 15TB+ array with three-tier volume group strategy
+  \item Separate volume groups for system (performance NVMe), data (aggregated SATA), and user storage; independent subvolume compression and snapshot policies
+  \item Full LUKS encryption across all five volumes; automated Timeshift disaster recovery integration
+  \item \textit{Skills: LVM topology design, Btrfs subvolumes/snapshots/compression, multi-tier storage strategy, encryption, backup/DR planning}
+\end{itemize}
+
+\vspace{4pt}
+\noindent\textbf{Multi-System Administration Portfolio} (Ongoing)\\
+\textit{Active management of diverse Linux environments}
+\begin{itemize}
+  \item Primary Arch-based workstation + System76 Bonobo WS (Qubes OS) + assisted Windows-to-Linux migration for personal contacts
+  \item Git/GitLab workflows; contributing to MegaMek/MekHQ open-source project
+  \item Boot.dev full-stack program: Python (completed Apr 2026), Linux (completed Apr 2026); progressing through OOP, data structures, Go track
+\end{itemize}
+
+% ── PROFESSIONAL EXPERIENCE ───────────────────────────────────────────────────
+\section*{PROFESSIONAL EXPERIENCE}
+
+\noindent\textbf{Uber Eats} --- Independent Delivery Contractor\hfill\textit{2023--2026}\\
+\textbf{Food Delivery Driver}\\
+\textit{Independent contractor, supplemental income --- classified as accessory income by Oregon DWS}
+\begin{itemize}
+  \item Self-scheduled food delivery contractor; managed route planning, customer communication, and on-time delivery
+  \item Maintained positive customer ratings through professional service and reliable delivery execution
+\end{itemize}
+
+\vspace{5pt}
+\noindent\textbf{Harry and David}, Medford, OR\\
+\textbf{Seasonal Data Entry Associate}\hfill\textit{September 2023--December 2025}\\
+\textit{Three seasonal deployments: Sep--Dec 2023; Sep 2024--Feb 2025; Sep--Dec 2025}
+\begin{itemize}
+  \item Performed high-volume keyboard data entry of 20+ orders daily into order management system during peak holiday periods
+  \item Verified order data integrity and reconciled discrepancies in time-sensitive e-commerce environment
+  \item Maintained consistent accuracy and performance across all three seasonal deployments in fast-paced setting
+  \item Worked independently with minimal supervision; reliable attendance throughout all seasons
+\end{itemize}
+
+\vspace{5pt}
+\noindent\textbf{Superior Service Transport}, Salt Lake City, UT\\
+\textbf{Driver Check-in Clerk / Scheduling}\hfill\textit{April 2023--July 2023 (Contract)}
+\begin{itemize}
+  \item Verified, scanned, and documented transport orders into specialized transportation management system
+  \item Processed truck trip manifests; verified documentation accuracy and maintained delivery records database
+  \item Performed weekly load/route scheduling: optimized cargo space allocation across truck capacity (load planning)
+  \item Coordinated with drivers and endpoint facilities ensuring on-time delivery execution
+  \item Handled high-volume documentation processing in time-critical logistics environment
+\end{itemize}
+
+\newpage
+\noindent\textbf{RidgeCrest Herbals}, Salt Lake City, UT\\*
+\textbf{Linux System Administrator \& VoIP Administrator}\hfill\textit{May 2012--February 2014}\\
+\textit{Primary Linux infrastructure and VoIP services administrator for herbal supplement manufacturer}
+
+\smallskip\textit{Linux Infrastructure Management:}
+\begin{itemize}
+  \item Administered heterogeneous Linux environment supporting 15-person team across Debian, Ubuntu, and Linux Mint distributions
+  \item Managed server infrastructure: file servers, application servers, development environments, backup systems
+  \item Implemented automated backup solutions using Bash scripting and Git-based configuration management
+  \item Administered VirtualBox virtualization platform for development, testing, and legacy system support
+  \item Maintained critical legacy DOS database via VirtualBox VMs and DOSBox emulation for business continuity
+  \item Reduced system downtime 40\% through proactive monitoring scripts and automated maintenance procedures
+  \item Maintained Windows XP/7 client systems alongside Linux infrastructure; SSH-based remote administration
+  \item Maintained 99\%+ uptime for critical business systems throughout tenure
+\end{itemize}
+
+\textit{VoIP Infrastructure Migration \& Automation:}
+\begin{itemize}
+  \item Migrated company telephony from legacy Asterisk PBX to FreeSWITCH; engineered complete FreeSWITCH PBX from ground up
+  \item Created automated SIP phone provisioning templates deployable via PXE/TFTP boot environment
+  \item Deployed 15 SIP phones plus voicemail, fax integration, printer, and 6 support lines with hunt group configuration
+  \item Designed system scalable to 40+ endpoints using standardized provisioning templates
+  \item Reduced telephony costs 60\% by migrating from traditional PBX to open-source VoIP solution
+  \item Integrated VoIP with existing network infrastructure maintaining QoS and call quality standards
+  \item Established standardized Linux workstation deployment reducing setup time from 4 hours to 30 minutes
+  \item Documented all systems and procedures for knowledge transfer and disaster recovery
+\end{itemize}
+
+\vspace{5pt}
+\noindent\textbf{ITT Systems (DoD Contractor)}, Afghanistan\\
+\textbf{Network Administrator}\hfill\textit{September 2009--May 2010}\\
+\textit{Security-cleared network administrator for Department of Defense communications infrastructure in combat zone}
+\begin{itemize}
+  \item Maintained dual-tier classified network infrastructure in hostile environment supporting 200+ users
+  \item \textbf{Primary duty --- Cisco infrastructure:} Administered Cisco switching and routing: VLANs, ACLs, routing protocols for secure network segmentation
+  \item \textbf{Workstation provisioning:} Imaged and configured Windows workstations with standard OS, Microsoft Office, DoD-mandated security settings
+  \item \textbf{Active Directory administration:} Added computer accounts to domain; managed user accounts (onboarding/offboarding, password resets, account management)
+  \item Implemented critical encryption protocol updates and performed SATCOM/crypto maintenance maintaining DoD security compliance
+  \item Provided Tier 2/3 escalation support for SATCOM administrators; coordinated on complex AD, Windows client/server, and network issues
+  \item Executed emergency network maintenance during critical operational periods
+  \item Maintained operational security (OpSec) protocols for classified communications infrastructure
+  \item Earned CompTIA Security+ certification during deployment (required for position)
+\end{itemize}
+
+\vspace{5pt}
+\noindent\textbf{Teleperformance USA}, Salt Lake City, UT\\
+\textit{Total Tenure: May 2005--October 2008 (3+ years across three client contracts)}
+
+\smallskip\textbf{Hardware Support Technician --- Dell Tier 2 Contract}\hfill\textit{July 2007--October 2008}\\
+\textit{Advanced technical support specialist for Dell enterprise and consumer hardware platforms}
+\begin{itemize}
+  \item Achieved Dell Tier 2 Certification for advanced hardware diagnostics and complex troubleshooting
+  \item Resolved 40+ technical issues daily via phone and internet chat with 85\%+ customer satisfaction rating
+  \item Provided remote desktop support using TeamViewer (web-based remote session: user navigated to site and entered associate-provided one-time session code)
+  \item Served as Resolution Specialist: mentored junior agents on complex troubleshooting and escalation procedures
+  \item Dispatched field technicians and coordinated parts replacement for critical hardware failures
+  \item Diagnosed hardware failures across Dell product lines: servers, workstations, laptops, peripherals
+  \item Contributed to successful launch of Core Business Group Internet Chat support channel as first-wave team member
+  \item Supported Windows XP and Windows Vista environments for consumer and business clients
+\end{itemize}
+
+\textbf{Internet Support Specialist --- Clearwire Contract}\hfill\textit{April 2006--July 2007}
+\begin{itemize}
+  \item Provided Tier 2 technical support for wireless broadband services and emerging VoIP technologies
+  \item Certified as VoIP Subject Matter Expert (SME): provisioned customers for VoIP services, troubleshot SIP connectivity
+  \item Earned Clearwire Email Specialist certification for advanced email system troubleshooting
+  \item Assisted fellow agents as Tier 2 resource for complex technical escalations
+  \item Troubleshot wireless modem connectivity, email configuration, and web hosting issues
+\end{itemize}
+
+\textbf{Cable TV Support Technician --- Cox Contract}\hfill\textit{May 2005--March 2006}
+\begin{itemize}
+  \item Provided technical and billing support for cable television services via phone
+  \item Processed customer requests and scheduled on-site technician appointments
+  \item Utilized AS/400 database system for customer account access when primary Java application was unavailable
+  \item Maintained above 80\% quality assurance score throughout tenure
+\end{itemize}
+
+\vspace{5pt}
+\noindent\textbf{United States Postal Service}, Salt Lake City, UT\\
+\textbf{Data Conversion Operator}\hfill\textit{December 2001--January 2004}\\
+\textit{High-volume mail piece address image coding operator}
+\begin{itemize}
+  \item Coded letter and flat mail images into sort computer using high-speed numeric address coding: building/house numbers, 3-digit street codes, city/state codes
+  \item Maintained under 4\% error rate while processing thousands of mail pieces daily in fast-paced production environment
+  \item Demonstrated consistent accuracy and speed across sustained high-volume coding sessions
+  \item Met strict daily production quotas in team environment
+\end{itemize}
+
+\vspace{5pt}
+\noindent\textbf{Convergys}, Murray, UT\\
+\textit{Total Tenure: April 2000--November 2001 (1.5 years across two client contracts)}
+
+\smallskip\textbf{Provisional Technical Engineer --- AT\&T Managed Internet Services}\hfill\textit{August 2000--November 2001}\\
+\textit{Technical project manager for T1/Frame Relay business internet circuit installations}
+\begin{itemize}
+  \item Managed end-to-end installation projects for T1/FT1 business internet circuits: planning through activation
+  \item Configured customer premises equipment: Cisco and Paradyne routers, CSU/DSUs for circuit termination
+  \item Coordinated with multiple AT\&T vendors and third-party circuit providers for complex installations
+  \item Managed IP address allocation, subnet design, and routing configuration for customer networks
+  \item Troubleshot layer 1--3 connectivity issues during circuit installation and activation phases
+  \item Maintained project documentation and customer communication throughout installation lifecycle
+  \item Certified as AT\&T Provisional Technical Engineer
+\end{itemize}
+
+\textbf{@Home Internet Support Technician --- AT\&T Contract}\hfill\textit{April 2000--August 2000}
+\begin{itemize}
+  \item Provided technical support for cable modem internet services: connectivity, email, and browsing issues
+  \item Utilized AS/400 database system for customer account access when primary application was unavailable
+  \item Coordinated with network operations center for outage information and escalations
+  \item Maintained high customer satisfaction scores in fast-paced support environment
+\end{itemize}
+
+\vspace{5pt}
+\noindent\textbf{Estrella Mountain Community College}, Avondale, AZ\\
+\textbf{Computer Lab Technician}\hfill\textit{September 1997--December 1999}\\
+\textit{Student worker --- campus computer lab support}
+\begin{itemize}
+  \item Assisted students with computer hardware, software applications, and general computing questions
+  \item Maintained computer lab equipment, documentation, and supplies
+  \item Assisted in setting up a LAN at a local high school as part of a class project
+\end{itemize}
+
+\newpage
+\noindent\textbf{Del Webb Corporation}, Sun City West, AZ\\
+\textbf{Accounting Assistant (Internship)}\hfill\textit{October 1996--April 1997}\\
+\textit{High school internship --- accounting department}
+\nopagebreak
+\begin{itemize}
+  \item Created, printed, and filed accounting reports for the department
+  \item Maintained organized paper-based records management and filing systems
+  \item Performed data entry using AS/400 system for accounting and records
+  \item Supported department operations with administrative and clerical tasks
+\end{itemize}
+
+% ── EDUCATION ─────────────────────────────────────────────────────────────────
+\section*{EDUCATION}
+
+\noindent\textbf{Salt Lake Community College}\hfill\textit{2001--2006, 2016--2018}\\
+Associate of Science, Computer Science\\
+\textit{Linux, Security, CS Theory \& Programming --- Windows and Linux lab environment:}
+\begin{itemize}
+  \item Certified Ethical Hacker (CSIS 2360) --- 2018
+  \item Linux System Administration II (CSIS 2132) --- 2017; Linux System Administration I (CSIS 1132) --- 2017
+  \item Introduction to Linux (CSIS 1032) --- 2016
+  \item Software Engineering (CS 2750) --- programming design, project structure, development lifecycle
+  \item Data Structures \& Algorithms --- bags, trees, queues, stacks; time complexity and memory/space optimization
+  \item Database Management (CIS 2600), Data Communications/Networking (CS 2400), Computer Architecture (CS 2620), Discrete Structures (CS 2310)
+\end{itemize}
+
+\vspace{4pt}
+\noindent\textbf{Estrella Mountain Community College}\hfill\textit{1997--1999}\\
+Computer Science Coursework\\
+\textit{Cisco Networking \& Programming Specialization --- macOS 6--9 and Windows lab environment:}
+\begin{itemize}
+  \item Cisco Advanced Routing \& Switching (CNT 160), Project Based Learning (CNT 170)
+  \item Cisco Networking Fundamentals (CNT 140), Router Technology (CNT 150)
+  \item C Programming I (CIS 162) --- C/C++ coursework; Computer Maintenance I: A+ Preparation (BPC 170)
+\end{itemize}
+
+\vspace{4pt}
+\noindent\textbf{Boot.dev}\hfill\textit{In Progress}\\
+Full-Stack Backend Development Program\\
+\textit{Python and Go backend development, DevOps automation, infrastructure-as-code}
+\begin{itemize}
+  \item Learn to Code in Python --- Completed April 24, 2026
+  \item Learn Linux --- Completed April 25, 2026
+  \item Build a Bookbot (guided Python project) --- Completed April 25, 2026 \textbar{} \href{https://github.com/PhoenyxCullen/bookbot}{github.com/PhoenyxCullen/bookbot}
+  \item Learn Git / Git Ops 1 --- Completed April 25, 2026 \textbar{} Webflyx project: \href{https://github.com/PhoenyxCullen/webflyx}{github.com/PhoenyxCullen/webflyx}
+  \item OOP, Functional Programming, Data Structures \& Algorithms --- In Progress
+  \item Upcoming: Go, HTTP, Docker, SQL, Pub/Sub, AWS, CI/CD, Kubernetes
+\end{itemize}
+
+% ── CERTIFICATIONS ────────────────────────────────────────────────────────────
+\section*{CERTIFICATIONS}
+
+\textbf{Active:}
+\begin{itemize}
+  \item \textbf{Linux Essentials} --- Linux Professional Institute (2023)
+  \item \textbf{CompTIA Security+} (2010) --- Network security, cryptography, security operations
+  \item \textbf{CompTIA A+} (2007) --- Hardware and software troubleshooting
+\end{itemize}
+
+\textbf{In Progress:}
+\begin{itemize}
+  \item \textbf{Linux Foundation Certified System Administrator (LFCS)} --- System administration fundamentals
+  \item \textbf{Linux Foundation Certified Engineer (LFCE)} --- Advanced Linux engineering (planned)
+\end{itemize}
+
+\textbf{Historical:}
+\begin{itemize}
+  \item Cisco Certified Network Administrator (CCNA) --- Routing, switching, network fundamentals
+  \item Dell Tier 2 Hardware Certification --- Advanced Dell hardware diagnostics
+  \item AT\&T Provisional Technical Engineer --- T1/circuit installation and troubleshooting
+  \nopagebreak\item Clearwire VoIP Subject Matter Expert (SME); Clearwire Email Specialist
+  \nopagebreak\item CIW Web Foundations Associate --- Web technologies and standards
+\end{itemize}
+
+% ── PROFESSIONAL PROFILE ──────────────────────────────────────────────────────
+\section*{PROFESSIONAL PROFILE}
+
+\textbf{Career Context:} Extensive technical background with deep expertise in Linux administration, network infrastructure, IT support, and data operations. Career timeline reflects periods of family caregiving responsibilities (2014--2023) during which technical skills were maintained through personal infrastructure projects and self-directed study. Recent Linux Essentials certification, Boot.dev completions, and pursuit of Linux Foundation certifications demonstrate active commitment to formalizing hands-on experience with industry credentials.
+
+\vspace{4pt}
+\textbf{Current Technical Focus:}
+\begin{itemize}
+  \item Expanding DevOps skillset: containerization, infrastructure-as-code, CI/CD pipelines
+  \item Security specialization: secure architecture, encryption, VM-based isolation (active Qubes OS research)
+  \item Backend development: Python and Go for automation and infrastructure tooling
+  \item Software Defined Networking: modern network virtualization and programmability
+\end{itemize}
+
+\vspace{4pt}
+\textbf{Work Preferences:} Strong preference for remote work. Proven ability to work independently, self-manage complex projects, and maintain productivity without supervision. Comfortable with distributed team collaboration tools and asynchronous communication.
+
+\vspace{4pt}
+\textbf{Physical Note (temporary):} Recovering from surgery (May 2026); no lifting over 10 lbs until approximately late June 2026. Available for desk and remote work immediately --- no restrictions apply to desk-based roles.
+
+\vspace{8pt}
+\noindent\rule{\linewidth}{0.4pt}
+
+\vspace{3pt}
+\noindent{\small
+References available upon request \textbar{}
+Open to remote work opportunities nationwide \textbar{}
+Salary requirement: \$46,500+ annually (\$22.36/hr minimum) \textbar{}
+Available for temp, contract, or permanent positions
+}
+
+\end{document}

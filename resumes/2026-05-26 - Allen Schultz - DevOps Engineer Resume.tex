@@ -1,0 +1,221 @@
+\documentclass[9pt,letterpaper]{extarticle}
+
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}
+\usepackage[top=0.55in, bottom=0.55in, left=0.65in, right=0.65in]{geometry}
+\usepackage{titlesec}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+\usepackage{xcolor}
+\usepackage{microtype}
+\DisableLigatures{encoding = *, family = *}
+\usepackage{setspace}
+\usepackage{fancyhdr}
+\usepackage{lastpage}
+\setstretch{1.2}
+
+\definecolor{accent}{RGB}{0,0,0}
+
+\titleformat{\section}
+  {\singlespacing\fontsize{9.5}{11.4}\selectfont\bfseries}
+  {}
+  {0em}
+  {\rule{\linewidth}{0.8pt}\\[-2pt]}
+  [\vspace{-8pt}{\color{black!35}\rule{\linewidth}{0.3pt}}]
+\titlespacing*{\section}{0pt}{-5pt}{4pt}
+
+\pagestyle{fancy}
+\fancyhf{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+\fancyfoot[C]{\footnotesize\color{accent}Allen Schultz \textbar{} Page \thepage{} of \pageref{LastPage}}
+\setlist[itemize]{noitemsep, topsep=1pt, itemsep=1pt, parsep=0pt, partopsep=0pt, leftmargin=1.3em, label=\textbullet, beginpenalty=9999, midpenalty=9000}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{3pt}
+\widowpenalty=9999
+\clubpenalty=9999
+
+\begin{document}
+
+% ── HEADER ────────────────────────────────────────────────────────────────────
+\begin{center}
+  {\LARGE\bfseries\color{accent} ALLEN SCHULTZ}\\[3pt]
+  {\normalsize\itshape DevOps Engineer \textbar{} Linux Systems Administrator \textbar{} Infrastructure Automation}\\[4pt]
+  {\small
+    Medford, OR 97504 \textbar{} 801-550-0865 \textbar{}
+    \href{mailto:allen.schultz@gmail.com}{allen.schultz@gmail.com} \textbar{}
+    \href{https://linkedin.com/in/allen-schultz-89810014}{linkedin.com/in/allen-schultz-89810014} \textbar{}
+    \href{https://github.com/PhoenyxCullen}{github.com/PhoenyxCullen}
+  }
+\end{center}
+
+% ── PROFESSIONAL SUMMARY ──────────────────────────────────────────────────────
+\section*{PROFESSIONAL SUMMARY}
+
+Linux Systems Administrator with 8+ years of technical experience and a strong DevOps foundation built through enterprise Linux administration, infrastructure automation, and hands-on lab projects. Proven expertise in Debian-based systems, Bash automation, PXE/TFTP deployment, Docker containerization, Git/GitLab, and Cisco networking. Actively completing Boot.dev's full-stack program (Python/Go) and pursuing Linux Foundation certifications (LFCS/LFCE, DevOps/Security track). Running active Qubes OS security research on System76 hardware demonstrating advanced virtualization, encryption, and security architecture skills. Seeking remote Linux Administrator, DevOps Engineer, or infrastructure automation role.
+
+\smallskip
+\textbf{Core Competencies:}\\
+Linux Administration (Debian, Ubuntu, Arch) \textbullet{}
+Infrastructure Automation (Bash, PXE/TFTP) \textbullet{}
+Docker \& Containerization \textbullet{}
+Git/GitLab Version Control \textbullet{}
+Cisco Networking (VLANs, ACLs, Routing) \textbullet{}
+VoIP (FreeSWITCH, SIP) \textbullet{}
+Virtualization (Qubes OS/Xen, VirtualBox, KVM) \textbullet{}
+Security Architecture (LUKS, VM Isolation) \textbullet{}
+Storage (Btrfs, LVM, LUKS, RAID) \textbullet{}
+Python \& Go (in progress)
+
+% ── TECHNICAL SKILLS ──────────────────────────────────────────────────────────
+\section*{TECHNICAL SKILLS}
+
+\noindent\textbf{Operating Systems:} Linux (Debian, Ubuntu, Arch, Manjaro, Qubes OS), Windows XP--11, Windows Server 2003--2022
+
+\noindent\textbf{Virtualization:} Qubes OS (Xen hypervisor), VirtualBox, KVM, GPU passthrough, VM security isolation
+
+\noindent\textbf{Storage \& Filesystems:} Btrfs (subvolumes, snapshots, compression), LVM, LUKS encryption, RAID configurations
+
+\noindent\textbf{Programming \& Scripting:} Bash, Python (Boot.dev --- completed; Linux), Go (Boot.dev --- in progress), C (academic), C++ (academic), Java (academic), basic Perl/PHP
+
+\noindent\textbf{CS Fundamentals:} Data structures (bags, trees, queues, stacks), algorithm design (time complexity, memory/space optimization), programming design, software engineering principles
+
+\noindent\textbf{Networking:} Cisco IOS, routing/switching, VLANs, ACLs, routing protocols, T1/Frame Relay, SDN concepts
+
+\noindent\textbf{VoIP:} FreeSWITCH PBX, SIP phone provisioning and automation, hunt groups, voicemail, fax integration
+
+\noindent\textbf{DevOps \& Automation:} Docker, Git/GitLab, PXE/TFTP boot environments, automated deployment scripts, infrastructure automation, Bash script libraries
+
+\noindent\textbf{Security:} LUKS full-disk encryption, VM-based security isolation, CompTIA Security+, DoD compliance, secure architecture design
+
+\noindent\textbf{Tools:} PXE/TFTP boot servers, package management (apt, pacman, yum), Timeshift, systemd
+
+% ── TECHNICAL PROJECTS ────────────────────────────────────────────────────────
+\section*{TECHNICAL PROJECTS \& LAB EXPERIENCE}
+
+\noindent\textbf{Qubes OS Security Research Platform} (System76 Bonobo WS)\hfill\textit{2024--Present}\\
+\textit{High-performance security-focused virtualization and learning environment}
+\begin{itemize}
+  \item Running Qubes OS 4.3 RC3 on Intel Core i9-14900HX (24 cores, 64GB DDR5, 10.8TB NVMe, dual GPU)
+  \item Implemented security-by-isolation architecture: air-gapped vault qube, Whonix integration, compartmentalized VMs per trust level
+  \item LUKS-encrypted storage with Intel VT-x/VT-d hardware-backed VM isolation; evaluating GPU passthrough for isolated workloads
+  \item \textit{Skills: Xen hypervisor, VM security isolation, pre-release software testing, GPU passthrough, Whonix/Tor privacy}
+\end{itemize}
+
+\vspace{4pt}
+\noindent\textbf{Advanced Storage Architecture Design} (Desktop --- In Planning)\\
+\textit{Enterprise-grade multi-drive storage design}
+\begin{itemize}
+  \item Designed Btrfs-on-LVM-on-LUKS across 5-drive 15TB+ array; three-tier volume group strategy (system NVMe, data SATA, user storage)
+  \item Independent subvolume compression policies per workload; full LUKS encryption across five volumes; automated Timeshift disaster recovery
+  \item \textit{Skills: LVM topology, Btrfs advanced features, multi-tier storage strategy, encryption, disaster recovery planning}
+\end{itemize}
+
+\vspace{4pt}
+\noindent\textbf{Multi-System Administration Portfolio} (Ongoing)
+\begin{itemize}
+  \item Active management of Arch workstation + Qubes OS laptop; contributing to MegaMek/MekHQ open-source project via GitLab
+  \item Boot.dev completed (April 2026): Python, Linux, Build a Bookbot (\href{https://github.com/PhoenyxCullen/bookbot}{github.com/PhoenyxCullen/bookbot}), Learn Git / Git Ops 1 --- Webflyx (\href{https://github.com/PhoenyxCullen/webflyx}{github.com/PhoenyxCullen/webflyx}); progressing through OOP, data structures, Go, Docker, SQL, CI/CD, Kubernetes tracks
+\end{itemize}
+
+% ── PROFESSIONAL EXPERIENCE ───────────────────────────────────────────────────
+\section*{PROFESSIONAL EXPERIENCE}
+
+\noindent\textbf{RidgeCrest Herbals}, Salt Lake City, UT\\
+\textbf{Linux System Administrator \& VoIP Administrator}\hfill\textit{May 2012--February 2014}\\
+\textit{Primary Linux infrastructure and VoIP administrator for 15-person herbal supplement manufacturer}
+
+\smallskip\textit{Linux Infrastructure \& Automation:}
+\begin{itemize}
+  \item Administered heterogeneous Linux environment (Debian, Ubuntu, Linux Mint); maintained 99\%+ uptime for all critical systems
+  \item Implemented automated backup solutions using Bash scripting and Git-based configuration management
+  \item Established standardized Linux workstation deployment process reducing setup time from 4 hours to 30 minutes
+  \item Created and maintained Bash script library for user management, backup automation, and system updates
+  \item Administered VirtualBox VMs for development, testing, and legacy DOS database support (VirtualBox + DOSBox)
+  \item Reduced system downtime 40\% through proactive monitoring scripts and automated maintenance
+  \item Maintained Windows XP/7 client systems alongside Linux infrastructure in mixed-OS environment
+\end{itemize}
+
+\textit{VoIP Infrastructure --- FreeSWITCH Migration:}
+\begin{itemize}
+  \item Migrated telephony from Asterisk PBX to FreeSWITCH; engineered complete FreeSWITCH PBX system from ground up
+  \item Created automated SIP phone provisioning templates deployed via PXE/TFTP boot environment (zero-touch deployment)
+  \item Deployed 15 SIP phones plus voicemail, fax, printer, and 6 hunt group support lines
+  \item Designed system scalable to 40+ endpoints using standardized templates; eliminated configuration drift
+  \item Reduced telephony costs 60\%; integrated VoIP with network infrastructure maintaining QoS standards
+  \item Documented all systems and procedures for knowledge transfer and disaster recovery
+\end{itemize}
+
+\vspace{5pt}
+\noindent\textbf{ITT Systems (DoD Contractor)}, Afghanistan\\
+\textbf{Network Administrator}\hfill\textit{September 2009--May 2010}\\
+\textit{Security-cleared network administrator for DoD communications infrastructure}
+\begin{itemize}
+  \item Maintained dual-tier classified network supporting 200+ users; primary duty: Cisco switch/router administration (VLANs, ACLs, routing protocols)
+  \item Imaged and configured Windows workstations with standard OS, Office, and DoD security settings
+  \item Administered Active Directory: computer provisioning, user account management, password resets
+  \item Implemented critical encryption protocol updates; performed SATCOM/crypto maintenance
+  \item Provided Tier 2/3 escalation support; maintained OpSec protocols for classified infrastructure
+  \item Earned CompTIA Security+ certification during deployment
+\end{itemize}
+
+\vspace{5pt}
+\noindent\textbf{Convergys}, Murray, UT\\
+\textit{Total Tenure: April 2000--November 2001 (two client contracts)}
+
+\smallskip\textbf{Provisional Technical Engineer --- AT\&T Managed Internet Services}\hfill\textit{August 2000--November 2001}
+\begin{itemize}
+  \item Managed end-to-end T1/FT1 business internet circuit installations: configured Cisco/Paradyne routers, CSU/DSUs
+  \item Managed IP address allocation, subnet design, and routing configuration; troubleshot layer 1--3 connectivity issues
+  \item Certified as AT\&T Provisional Technical Engineer
+\end{itemize}
+
+\vspace{5pt}
+\noindent\textbf{Harry and David}, Medford, OR\\
+\textbf{Seasonal Data Entry Associate}\hfill\textit{September 2023--December 2025}\\
+\textit{Most recent employment --- three seasonal deployments during career pivot}
+\begin{itemize}
+  \item Processed 20+ orders daily into order management system with consistent accuracy during peak periods
+\end{itemize}
+
+\vspace{5pt}
+\noindent\textbf{Superior Service Transport}, Salt Lake City, UT\\
+\textbf{Driver Check-in Clerk / Scheduling}\hfill\textit{April 2023--July 2023}
+\begin{itemize}
+  \item Verified and documented transport orders; optimized weekly load/route scheduling for truck fleet
+\end{itemize}
+
+% ── EDUCATION ─────────────────────────────────────────────────────────────────
+\section*{EDUCATION}
+
+\noindent\textbf{Salt Lake Community College}\hfill\textit{2001--2006, 2016--2018}\\
+Associate of Science, Computer Science\\
+Coursework: Linux System Admin I \& II, Certified Ethical Hacker, Database Management, Data Communications/Networking, Software Engineering
+
+\vspace{4pt}
+\noindent\textbf{Estrella Mountain Community College}\hfill\textit{1997--1999}\\
+Computer Science Coursework\\
+Coursework: Cisco Advanced Routing \& Switching (I--IV), C Programming, Computer Maintenance/A+ Preparation
+
+\vspace{4pt}
+\noindent\textbf{Boot.dev}\hfill\textit{In Progress}\\
+Full-Stack Backend Development Program\\
+Python (Apr 24 2026) \textbullet{} Linux (Apr 25 2026) \textbullet{} Build a Bookbot (Apr 25 2026) \textbullet{} Learn Git / Git Ops 1 (Apr 25 2026) --- completed; OOP, Data Structures, Go, Docker, SQL, CI/CD, Kubernetes --- in progress
+
+% ── CERTIFICATIONS ────────────────────────────────────────────────────────────
+\section*{CERTIFICATIONS}
+
+\textbf{Active:} Linux Essentials --- LPI (2023) \textbullet{} CompTIA Security+ (2010) \textbullet{} CompTIA A+ (2007)
+
+\textbf{In Progress:} Linux Foundation Certified System Administrator (LFCS) \textbullet{} Linux Foundation Certified Engineer (LFCE)
+
+\textbf{Historical:} Cisco CCNA \textbullet{} Dell Tier 2 Hardware Certification \textbullet{} AT\&T Provisional Technical Engineer
+
+\vspace{8pt}
+\noindent\rule{\linewidth}{0.4pt}
+\vspace{3pt}
+\noindent{\small Available immediately for remote work \textbar{} Salary: \$46,500+ annually}\\[2pt]
+{\small\textit{Physical Note (temporary):} Recovering from surgery (May 2026); no lifting over 10 lbs until approximately late June 2026. Available for desk and remote work immediately --- no restrictions apply to desk-based roles.}
+
+\end{document}
