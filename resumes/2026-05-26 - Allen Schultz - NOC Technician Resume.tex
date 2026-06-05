@@ -1,0 +1,231 @@
+\documentclass[9pt,letterpaper]{extarticle}
+
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}
+\usepackage[top=0.55in, bottom=0.55in, left=0.65in, right=0.65in]{geometry}
+\usepackage{titlesec}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+\usepackage{xcolor}
+\usepackage{microtype}
+\DisableLigatures{encoding = *, family = *}
+\usepackage{setspace}
+\usepackage{fancyhdr}
+\usepackage{lastpage}
+\usepackage{needspace}
+\setstretch{1.2}
+
+\definecolor{accent}{RGB}{0,0,0}
+
+\titleformat{\section}
+  {\singlespacing\fontsize{9.5}{11.4}\selectfont\bfseries}
+  {}
+  {0em}
+  {\rule{\linewidth}{0.8pt}\\[-2pt]}
+  [\vspace{-8pt}{\color{black!35}\rule{\linewidth}{0.3pt}}]
+\titlespacing*{\section}{0pt}{-5pt}{4pt}
+
+\pagestyle{fancy}
+\fancyhf{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+\fancyfoot[C]{\footnotesize\color{accent}Allen Schultz \textbar{} Page \thepage{} of \pageref{LastPage}}
+\setlist[itemize]{noitemsep, topsep=1pt, itemsep=1pt, parsep=0pt, partopsep=0pt, leftmargin=1.3em, label=\textbullet, beginpenalty=9999, midpenalty=9000}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{3pt}
+\widowpenalty=9999
+\clubpenalty=9999
+\setlength{\footskip}{20pt}
+
+\begin{document}
+
+% ── HEADER ────────────────────────────────────────────────────────────────────
+\begin{center}
+  {\LARGE\bfseries\color{accent} ALLEN SCHULTZ}\\[3pt]
+  {\normalsize\itshape NOC Technician \textbar{} Network Operations Analyst \textbar{} Network Administrator}\\[4pt]
+  {\small
+    Medford, OR 97504 \textbar{} 801-550-0865 \textbar{}
+    \href{mailto:allen.schultz@gmail.com}{allen.schultz@gmail.com} \textbar{}
+    \href{https://linkedin.com/in/allen-schultz-89810014}{linkedin.com/in/allen-schultz-89810014} \textbar{}
+    \href{https://github.com/PhoenyxCullen}{github.com/PhoenyxCullen}
+  }
+\end{center}
+\vspace{-10pt}
+% ── PROFESSIONAL SUMMARY ──────────────────────────────────────────────────────
+\section*{PROFESSIONAL SUMMARY}
+
+Network administrator and systems professional with hands-on Cisco infrastructure experience in high-stakes environments, including classified DoD network operations in a combat zone. Deep practical knowledge of Cisco IOS, VLANs, ACLs, routing protocols, and network segmentation. Additional background in VoIP infrastructure (FreeSWITCH/SIP), T1/Frame Relay circuit management, Linux systems administration, and network security. Systematic OSI-layer troubleshooting approach. CompTIA Security+ and CCNA (historical) certified. Following a career break for family health caregiving (2014--2023), actively maintained networking knowledge through home lab projects and personal systems administration. Seeking remote NOC Technician, Network Operations Analyst, or Network Administrator role.
+
+\smallskip
+\textbf{Core Competencies:}\\
+Cisco IOS (Switches \& Routers) \textbullet{}
+VLANs, ACLs \& Network Segmentation \textbullet{}
+Routing Protocols (OSPF, RIP, static) \textbullet{}
+Network Security \& DoD Compliance \textbullet{}
+T1/Frame Relay Circuit Management \textbullet{}
+VoIP (FreeSWITCH, SIP, QoS) \textbullet{}
+Linux Networking (iptables, routing, bridging) \textbullet{}
+Active Directory \& Windows Server \textbullet{}
+Network Documentation \& Troubleshooting \textbullet{}
+SDN Concepts
+
+% ── TECHNICAL SKILLS ──────────────────────────────────────────────────────────
+\section*{TECHNICAL SKILLS}
+
+\noindent\textbf{Networking:} Cisco IOS, routing/switching, VLANs, ACLs, routing protocols, T1/Frame Relay, CSU/DSU configuration, SDN concepts
+
+\noindent\textbf{Security:} DoD classified network compliance, LUKS encryption, VM-based network isolation, CompTIA Security+, OpSec procedures
+
+\noindent\textbf{VoIP \& Telephony:} FreeSWITCH PBX, SIP protocol, QoS for real-time traffic, codec negotiation, NAT traversal, hunt groups
+
+\noindent\textbf{Linux Networking:} iptables, network interfaces, routing, bridging, VLANs, SSH administration
+
+\noindent\textbf{Windows \& AD:} Active Directory, Windows Server 2003--2022, DNS/DHCP, workstation provisioning
+
+\noindent\textbf{Monitoring \& Tools:} OSI-layer systematic troubleshooting, network management tools, circuit testing, documentation
+
+\noindent\textbf{Virtualization:} Qubes OS (VM-per-network-zone architecture), VirtualBox, KVM
+
+% ── PROFESSIONAL EXPERIENCE ───────────────────────────────────────────────────
+\section*{PROFESSIONAL EXPERIENCE}
+
+\needspace{5\baselineskip}
+\noindent\textbf{Network Architecture --- Personal Lab} (Ongoing)
+
+\smallskip\textit{Qubes OS Network Isolation Research (System76 Bonobo WS) --- 2024--Present}
+\begin{itemize}
+  \item Implemented per-VM network security zones using Qubes OS firewall VM architecture
+  \item Network segmentation via VM isolation: different trust levels on different virtual network segments
+  \item VPN integration: routing specific VMs through VPN tunnels while others use direct connection
+  \item Whonix integration for anonymized networking research; understanding of Tor routing and exit node behavior
+  \item \textit{Demonstrates: defense-in-depth network design, SDN-adjacent concepts, security-by-compartmentalization}
+\end{itemize}
+
+\vspace{3pt}
+\needspace{3\baselineskip}
+\noindent\textbf{Harry and David} (1-800-Flowers.com, Inc.), Medford, OR --- Seasonal Data Entry Associate\hfill\textit{Sep 2023--Dec 2025}
+
+\vspace{3pt}
+\needspace{2\baselineskip}
+\noindent\textbf{Uber Eats} --- Independent Delivery Contractor\hfill\textit{2023--Present}
+
+\vspace{3pt}
+\needspace{2\baselineskip}
+\noindent\textbf{Superior Service Transport}, Salt Lake City, UT --- Driver Check-in Clerk/Scheduling\hfill\textit{Apr--Jul 2023}
+
+\vspace{3pt}
+\needspace{2\baselineskip}
+\noindent\textit{Career Break --- Family Health Caregiving}\hfill\textit{2014--2023}
+
+\vspace{5pt}
+\needspace{5\baselineskip}
+\noindent\textbf{RidgeCrest Herbals}, Salt Lake City, UT\\
+\textbf{Linux System Administrator \& VoIP Administrator}\hfill\textit{May 2012--February 2014}
+
+\smallskip\textit{Network \& VoIP Infrastructure:}
+\begin{itemize}
+  \item Designed and deployed FreeSWITCH PBX network: planned QoS requirements, configured network boot environment (PXE/TFTP), integrated VoIP with LAN infrastructure
+  \item Troubleshot Layer 2/3 issues affecting VoIP call quality; adjusted switch configurations for QoS optimization
+  \item Deployed 15 SIP phones plus voicemail, fax, and 6 hunt group lines across company network; reduced telephony costs 60\%
+  \item Designed system scalable to 40+ endpoints using standardized automated provisioning templates
+  \item Administered Linux servers and Windows XP/7 clients in heterogeneous network environment; 99\%+ uptime
+\end{itemize}
+
+\vspace{5pt}
+\needspace{5\baselineskip}
+\noindent\textbf{ITT Systems (DoD Contractor)}, Afghanistan\\
+\textbf{Network Administrator}\hfill\textit{September 2009--May 2010}\\
+\textit{Security-cleared network administrator for DoD communications infrastructure in active combat zone}
+\begin{itemize}
+  \item Maintained dual-tier classified/unclassified network infrastructure supporting 200+ users in hostile environment
+  \item \textbf{Primary Cisco administration:} Switches and routers --- VLANs for network segmentation, ACLs for access control, routing protocols for traffic management; zero-tolerance security environment
+  \item Administered Microsoft Active Directory, Exchange Server 2003, and Windows Server 2003 domain services
+  \item Imaged and provisioned Windows workstations with standard OS, Office, and DoD-mandated security settings
+  \item Implemented critical encryption protocol updates on tight deadlines; performed SATCOM/crypto maintenance
+  \item Provided Tier 2/3 escalation support for SATCOM administrators; executed emergency network maintenance during operational periods
+  \item Maintained OpSec protocols for classified communications infrastructure throughout deployment
+  \item Earned CompTIA Security+ certification during deployment (required for position)
+\end{itemize}
+
+\vspace{3pt}
+\needspace{2\baselineskip}
+\noindent\textbf{Teleperformance USA}, Salt Lake City, UT --- Help Desk/Tech Support (3 contracts)\hfill\textit{May 2005--Oct 2008}
+
+\vspace{3pt}
+\needspace{2\baselineskip}
+\noindent\textbf{United States Postal Service}, Salt Lake City, UT --- Data Conversion Operator\hfill\textit{Dec 2001--Jan 2004}
+
+\vspace{5pt}
+\needspace{5\baselineskip}
+\noindent\textbf{Convergys}, Murray, UT\\
+\textit{Total Tenure: April 2000--November 2001 (1.5 years across two client contracts)}
+
+\smallskip
+\needspace{5\baselineskip}
+\textbf{Provisional Technical Engineer --- AT\&T Managed Internet Services}\hfill\textit{August 2000--November 2001}\\
+\textit{Network circuit project manager for T1/Frame Relay business internet installations}
+\begin{itemize}
+  \item Managed end-to-end T1/FT1 circuit installations: configured Cisco and Paradyne routers, CSU/DSUs for circuit termination
+  \item Coordinated with AT\&T vendors and third-party circuit providers for complex multi-vendor installations
+  \item Managed IP address allocation, subnet design, and routing configuration for customer networks
+  \item Troubleshot layer 1--3 connectivity issues during installation and activation phases
+  \item Utilized network management tools for circuit testing and performance verification
+  \item Certified as AT\&T Provisional Technical Engineer
+\end{itemize}
+
+\needspace{3\baselineskip}
+\textbf{@Home Internet Support --- AT\&T Contract}\hfill\textit{April 2000--August 2000}
+\begin{itemize}
+  \item Coordinated with network operations center for outage information and escalations
+  \item Provided Tier 1 cable modem internet support; troubleshot connectivity, email, and routing issues
+\end{itemize}
+
+\vspace{3pt}
+\needspace{2\baselineskip}
+\noindent\textbf{Estrella Mountain Community College}, Avondale, AZ --- Computer Lab Technician\hfill\textit{1997--1999}
+
+\vspace{3pt}
+\needspace{6\baselineskip}
+\noindent\textbf{Del Webb Corporation}, Sun City West, AZ --- Accounting Assistant (Internship)\hfill\textit{1996--1997}
+
+% ── EDUCATION ─────────────────────────────────────────────────────────────────
+\section*{EDUCATION}
+
+\noindent\textbf{Salt Lake Community College}\hfill\textit{2001--2006, 2016--2018}\\
+Associate of Science, Computer Science \textbullet{} Certificate of Proficiency, Linux System Administration (2017)\\
+Coursework: Certified Ethical Hacker, Data Communications/Networking, Linux System Admin I \& II, Unix Internals, Database Management
+
+\newpage
+\noindent\textbf{Estrella Mountain Community College}\hfill\textit{1997--1999}\\
+Computer Science Coursework\\
+Coursework: Cisco Advanced Routing \& Switching (CNT 160), Project Based Learning (CNT 170), Cisco Networking Fundamentals (CNT 140), Router Technology (CNT 150)
+
+\vspace{4pt}
+\needspace{6\baselineskip}
+\noindent\textbf{Boot.dev}\hfill\textit{In Progress}\\
+Full-Stack Backend Development --- Python completed, Go/Docker/CI-CD in progress\\
+\textit{(Network automation via Python/Go; SDN programmability)}
+
+% ── CERTIFICATIONS ────────────────────────────────────────────────────────────
+\section*{CERTIFICATIONS}
+
+\textbf{Active:} CompTIA Security+ (2010) \textbullet{} Linux Essentials --- LPI (2023) \textbullet{} CompTIA A+ (2007)
+
+\textbf{In Progress:} Linux Foundation Certified System Administrator (LFCS)
+
+\needspace{5\baselineskip}
+\textbf{Historical:} Cisco CCNA --- Routing, Switching, Network Fundamentals \textbullet{} Networking Administration: Cisco --- EMCC Certificate of Completion (1999) \textbullet{} AT\&T Provisional Technical Engineer \textbullet{} Dell Tier 2 Hardware Certification
+
+% ── TROUBLESHOOTING METHODOLOGY ───────────────────────────────────────────────
+\section*{TROUBLESHOOTING METHODOLOGY}
+
+Systematic OSI-layer approach: Physical (cables, link status) -> Data Link (MACs, VLANs, switching) -> Network (IP, routing, connectivity) -> Transport (TCP/UDP, ports) -> Application (service-specific). Document findings and root cause at each layer; leave clear notes for follow-up.
+
+\vspace{8pt}
+\noindent\rule{\linewidth}{0.4pt}
+\vspace{3pt}
+\noindent{\small Available immediately for remote work \textbar{} Salary: \$46,500+ annually}\\[2pt]
+{\small\textit{Physical Note (temporary):} Recovering from surgery (May 2026); no lifting over 10 lbs until approximately late June 2026. Available for desk and remote work immediately --- no restrictions apply to desk-based roles.}
+
+\end{document}
