@@ -1,5 +1,5 @@
 # Resume & Job Hunting — Session Notes
-*Reference file for future Claude sessions. Last updated: May 26, 2026 (evening).*
+*Reference file for future Claude sessions. Last updated: May 27, 2026.*
 
 ---
 
@@ -32,7 +32,7 @@ Each 2026-05-26 resume has three files: `.md` (source), `.tex` (LaTeX), `.pdf` (
 | `2026-05-26 - Allen Schultz - Data Entry Resume.md/.tex/.pdf` | Data Entry, Order Processing, Administrative Support |
 | `2026-05-26 - Allen Schultz - DevOps Engineer Resume.md/.tex/.pdf` | Linux Admin, DevOps Engineer, Infrastructure Automation |
 | `2026-05-26 - Allen Schultz - General Admin Office Resume.md/.tex/.pdf` | Office Admin, Clerical, Customer Service, Virtual Assistant |
-| `2026-05-26 - Allen Schultz - NOC Analyst Resume.md/.tex/.pdf` | NOC Technician, Network Admin, Network Operations |
+| `2026-05-26 - Allen Schultz - NOC Technician Resume.md/.tex/.pdf` | NOC Technician, Network Admin, Network Operations |
 
 ### resumes/ — Archived (do not update)
 - `2025-12-29 - Allen Schultz - Resume Long.md/.pdf` — superseded by Master Archive
@@ -60,6 +60,13 @@ Each 2026-05-26 resume has three files: `.md` (source), `.tex` (LaTeX), `.pdf` (
 | `2026-04-26 - Allen Schultz - Cover Letter - Roseburg Litter Patrol - ODOT.md` | Litter Patrol — ODOT (physical; hold until post-surgery) |
 | `2026-04-26 - Allen Schultz - Cover Letter - Kroger.txt` | General role — Fred Meyer/Kroger |
 
+### education/ — Transcripts & Academic Records
+| File | Purpose |
+|---|---|
+| `~/Documents/EMCC Unofficial Transcript.txt` | Copied to PhoenyxCullen/education/ on GitHub. Confirms: Certificate of Completion, Networking Administration: Cisco (Dec 1999); CNT 140/150/160/170 Cisco sequence; BPC 170 A+ Prep; CIS 162 C Programming. Cumulative GPA 3.468. |
+| `~/Documents/Allen_Estrella_Mountain_Transcript.pdf` | Official Parchment PDF — same data as above. |
+| `~/Documents/SLCC Transcript.txt` | Official transcript (emailed), copied to PhoenyxCullen/education/ on GitHub. Key credentials: AS Computer Science (Aug 2004); Certificate of Proficiency, Linux System Administration (Aug 2017). Key courses: Unix Internals, Linux System Admin I & II, Certified Ethical Hacker, Data Communications/Networking, Software Engineering, Fundamentals of Database Management, Technical Writing. WGU (2010–2011, not completed) — earned CIW Web Foundations Associate there, then dropped due to finances. |
+
 ### Root — Utility Files
 | File | Purpose |
 |---|---|
@@ -75,10 +82,12 @@ Each 2026-05-26 resume has three files: `.md` (source), `.tex` (LaTeX), `.pdf` (
 PDFs are generated directly from LaTeX source (`.tex` files). Two compile workflows:
 
 ### Latin Modern (pdflatex) — 6 files
-Recompile a single file:
+Recompile a single file (two passes required for correct "Page X of Y" footer):
 ```bash
 cd "/home/allen/Projects/Resume-JobHunting/resumes"
-pdflatex -interaction=nonstopmode "FILENAME.tex" && rm -f *.aux *.log *.out
+pdflatex -interaction=nonstopmode "FILENAME.tex" > /dev/null && \
+pdflatex -interaction=nonstopmode "FILENAME.tex" > /dev/null && \
+rm -f *.aux *.log *.out
 ```
 Recompile all 6 LM files at once:
 ```bash
@@ -89,15 +98,18 @@ for f in \
   "2026-05-26 - Allen Schultz - Data Entry Resume" \
   "2026-05-26 - Allen Schultz - DevOps Engineer Resume" \
   "2026-05-26 - Allen Schultz - General Admin Office Resume" \
-  "2026-05-26 - Allen Schultz - NOC Analyst Resume"; do
-  pdflatex -interaction=nonstopmode "${f}.tex" && echo "OK: ${f}.pdf"
+  "2026-05-26 - Allen Schultz - NOC Technician Resume"; do
+  pdflatex -interaction=nonstopmode "${f}.tex" > /dev/null && \
+  pdflatex -interaction=nonstopmode "${f}.tex" > /dev/null && \
+  echo "OK: ${f}.pdf"
 done && rm -f *.aux *.log *.out
 ```
 
 ### Georgia variant (xelatex) — 1 file
 ```bash
 cd "/home/allen/Projects/Resume-JobHunting/resumes"
-xelatex -interaction=nonstopmode "2026-05-26 - Allen Schultz - Resume Archive (Master) - Georgia.tex"
+xelatex -interaction=nonstopmode "2026-05-26 - Allen Schultz - Resume Archive (Master) - Georgia.tex" > /dev/null && \
+xelatex -interaction=nonstopmode "2026-05-26 - Allen Schultz - Resume Archive (Master) - Georgia.tex" > /dev/null && \
 rm -f *.aux *.log *.out
 ```
 
@@ -129,7 +141,13 @@ titlespacing: {0pt}{−5pt}{4pt}
 
 ### Employment (reverse chronological)
 - **Uber Eats** — Independent contractor, 2023–2026 approx. (dates TBD — verify). DWS classifies as accessory income.
-- **Harry and David** — Seasonal Data Entry Associate, Sep 2023–Dec 2025. Three deployments: Sep–Dec 2023; Sep 2024–Feb 2025; Sep–Dec 2025. Keyboard typing into order management system.
+- **Harry and David (1800Flowers Team Services Inc)** — Seasonal Data Entry Associate. Official employer of record: **1800FLOWERS TEAM SERVICES INC**, PO BOX 712, Medford OR 97501. Three deployments (exact dates for unemployment/official use):
+  - Season 1: **Sept 27, 2023 – Jan 5, 2024**
+  - Season 2: **Oct 9, 2024 – Feb 7, 2025**
+  - Season 3: **Sept 3, 2025 – Jan 2, 2026**
+  - First day ever: Sept 27, 2023. Last day ever: Jan 2, 2026.
+  - Separation reason: Laid off due to lack of work (seasonal end).
+  - Keyboard typing into order management system. HR line: 541-864-2082.
 - **Superior Service Transport** — Driver Check-in Clerk/Scheduling, Apr–Jul 2023. Verified/scanned transport orders; weekly load/route optimization ("tetris" truck space). Specialized transport management system.
 - **Caregiving gap** — 2014–2023. Maintained skills through personal lab projects and self-study.
 - **RidgeCrest Herbals** — Linux Sysadmin & VoIP Admin, May 2012–Feb 2014. SSH/in-person support mostly. FreeSWITCH migration, PXE/TFTP automation.
@@ -144,6 +162,12 @@ titlespacing: {0pt}{−5pt}{4pt}
   - @Home Internet Support (Apr–Aug 2000): AS/400 database access when app down
 - **EMCC Computer Lab** — Student worker, Sep 1997–Dec 1999. Lab support, LAN setup project.
 - **Del Webb Corporation** — Accounting Intern (high school), Oct 1996–Apr 1997. Paper filing/records, AS/400 data entry.
+
+### Certifications — Full List
+**Active:** CompTIA A+ (2007) · CompTIA Security+ (2010) · Linux Essentials — LPI (2023)
+**Academic Credentials (Education section):** AS Computer Science — SLCC (Aug 2004) · Certificate of Proficiency, Linux System Administration — SLCC (Aug 2017) · Certificate of Completion, Networking Administration: Cisco — EMCC (Dec 1999)
+**In Progress:** LFCS · LFCE (Linux Foundation)
+**Historical (Certifications section):** Cisco CCNA · Dell Tier 2 Hardware Certification · AT&T Provisional Technical Engineer · Clearwire VoIP SME · CIW Web Foundations Associate (earned at WGU, 2010–2011) · CIW Web Languages: JavaScript Fundamentals · Networking Administration: Cisco — EMCC Certificate of Completion (1999)
 
 ### Skills — Important Distinctions
 - **USPS coding speed ≠ typing speed.** USPS was numeric code lookup from address images, not typing full text.
@@ -160,7 +184,8 @@ titlespacing: {0pt}{−5pt}{4pt}
 - Local repos: `~/Repos/bootdotdev/`
   - `bookbot/` — Python guided project. Completed Apr 25, 2026. **github.com/PhoenyxCullen/bookbot**
   - `webflyx/` — Git Ops 1 / Learn Git guided project. Completed Apr 25, 2026. **github.com/PhoenyxCullen/webflyx**
-- Curriculum order: Python → Linux → Bookbot → Learn Git (Webflyx) → OOP → ... (see Boot.Dev.md)
+- Curriculum order: Python → Linux → Bookbot → Learn Git (Webflyx) → **Docker → CI/CD → Kubernetes** (priority track) → then OOP, Data Structures, Go, SQL (see Boot.Dev.md)
+- Rationale for reorder: Docker/CI/CD/Kubernetes most directly hireable for DevOps roles; Go/OOP/DS deferred but not skipped
 
 ### Physical / Availability
 - Surgery May 18, 2026 (cecectomy — appendix + large intestine section removed). No heavy lifting ~4–6 weeks (through late June/early July 2026).
@@ -181,7 +206,7 @@ All are desk/remote-friendly and suitable during surgery recovery:
 | Role | Best Resume to Use |
 |---|---|
 | IT Help Desk / Desktop Support Tier 1–2 | IT Tech Support |
-| NOC Analyst / Network Operations Technician | NOC Analyst |
+| NOC Technician / Network Operations Analyst | NOC Technician |
 | Linux System Administrator | DevOps Engineer |
 | DevOps Engineer / SRE | DevOps Engineer |
 | VoIP / Telephony Administrator | DevOps or Master Archive |
