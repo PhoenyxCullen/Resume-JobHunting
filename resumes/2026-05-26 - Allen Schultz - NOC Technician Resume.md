@@ -1,5 +1,5 @@
 # ALLEN SCHULTZ
-**NOC Analyst | Network Administrator | Network Operations**
+**NOC Technician | Network Operations Analyst | Network Administrator**
 
 Medford, OR 97504 | 801-550-0865 | allen.schultz@gmail.com
 LinkedIn: linkedin.com/in/allen-schultz-89810014 | GitHub: github.com/PhoenyxCullen
@@ -8,7 +8,7 @@ LinkedIn: linkedin.com/in/allen-schultz-89810014 | GitHub: github.com/PhoenyxCul
 
 ## PROFESSIONAL SUMMARY
 
-Network administrator and systems professional with hands-on Cisco infrastructure experience in high-stakes environments, including classified DoD network operations in a combat zone. Deep practical knowledge of Cisco IOS, VLANs, ACLs, routing protocols, and network segmentation. Additional background in VoIP infrastructure (FreeSWITCH/SIP), T1/Frame Relay circuit management, Linux systems administration, and network security. Systematic OSI-layer troubleshooting approach. CompTIA Security+ and CCNA (historical) certified. Seeking remote NOC Analyst, Network Operations Technician, or Network Administrator role.
+Network administrator and systems professional with hands-on Cisco infrastructure experience in high-stakes environments, including classified DoD network operations in a combat zone. Deep practical knowledge of Cisco IOS, VLANs, ACLs, routing protocols, and network segmentation. Additional background in VoIP infrastructure (FreeSWITCH/SIP), T1/Frame Relay circuit management, Linux systems administration, and network security. Systematic OSI-layer troubleshooting approach. CompTIA Security+ and CCNA (historical) certified. Seeking remote NOC Technician, Network Operations Analyst, or Network Administrator role.
 
 **Core Competencies:**
 Cisco IOS (Switches & Routers) • VLANs, ACLs & Network Segmentation • Routing Protocols (OSPF, RIP, static) • Network Security & DoD Compliance • T1/Frame Relay Circuit Management • VoIP (FreeSWITCH, SIP, QoS) • Linux Networking (iptables, routing, bridging) • Active Directory & Windows Server • Network Documentation & Troubleshooting • SDN Concepts

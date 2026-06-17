@@ -59,6 +59,7 @@ Each 2026-05-26 resume has three files: `.md` (source), `.tex` (LaTeX), `.pdf` (
 | `2026-04-26 - Allen Schultz - Cover Letter - REAL ID Specialist - ODOT.md` | REAL ID Specialist — ODOT |
 | `2026-04-26 - Allen Schultz - Cover Letter - Roseburg Litter Patrol - ODOT.md` | Litter Patrol — ODOT (physical; hold until post-surgery) |
 | `2026-04-26 - Allen Schultz - Cover Letter - Kroger.txt` | General role — Fred Meyer/Kroger |
+| `2026-06-15 - Allen Schultz - Cover Letter - Dispatch Coordinator - ODOT.md` | Dispatch Coordinator — ODOT (REQ-201132, **submitted Jun 15, under review**) |
 
 ### education/ — Transcripts & Academic Records
 | File | Purpose |
@@ -196,6 +197,28 @@ titlespacing: {0pt}{−5pt}{4pt}
 - Strong preference for remote work.
 - Open to temp, contract, or permanent.
 - Salary: $46,500+/yr ($22.36/hr minimum).
+
+---
+
+## Oregon Unemployment (OED) — Status
+
+- Claim filed June 2026. Claim #: 001-2242885 | Claimant ID: 0001-1070971
+- **WBA: $204/week | MBA: $3,022 total**
+- Benefit begin: Jun 7, 2026 / Eligible through: Jun 5, 2027
+- Wages confirmed correct: $9,067.36 / 567 hrs from 1800Flowers (base year)
+- **Identity Verification: DONE — completed Jun 16, 2026 at USPS post office**
+- **Weekly claim for Jun 8-14: FILED**
+- Wage appeal deadline: June 22, 2026 — no action needed (wages accurate)
+- **Weekly claim must be filed each week** — 3 job search activities required, at least 1 direct employer contact
+- Must report all Uber Eats earnings each week (partial benefits still paid above threshold)
+- **211 call: DONE** — confirmation in email
+
+---
+
+## Keyboard — Cooler Master MK770
+
+- Model: MK-770-MCKR1-US (Kailh Box V2 Linear Red, Bluetooth/2.4GHz, hot-swap)
+- Ordered Jun 10, delivered Jun 16 to KNH — **picked up Jun 16, in car**
 
 ---
 
