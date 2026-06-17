@@ -200,6 +200,17 @@ titlespacing: {0pt}{−5pt}{4pt}
 
 ---
 
+## Week of Jun 16 — Schedule & Goals
+
+- **5 applications this week, minimum 1/day**
+- **Heat strategy:** Sleep through afternoon heat (Afghanistan-style), Uber early + evening
+- **Wed Jun 17:** Early Uber → Chick-fil-A breakfast → post free RV wanted ad → oncology form → 1 app → 6:30 PM bowling (talk to Pam re: JRV 3rd reference)
+- **Thu Jun 18:** Talk to Chelle, Rich, Dennis (housing) → 1 app → Uber cool hours
+- **Fri–Sun:** 3 more apps
+- **Sun Jun 22:** File OED weekly claim for Jun 15–21
+
+---
+
 ## Oregon Unemployment (OED) — Status
 
 - Claim filed June 2026. Claim #: 001-2242885 | Claimant ID: 0001-1070971
