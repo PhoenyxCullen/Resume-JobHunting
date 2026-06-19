@@ -215,7 +215,7 @@ titlespacing: {0pt}{−5pt}{4pt}
 
 - **PCP:** Daniel Wood, DO — 541-732-8000
 - **Call ASAP:** Request cardiac stress test referral (chest/left arm pain Jun 17 after heavy lifting, ER found no immediate cause)
-- BP: 157/109 (Jun 13), Stage 2 hypertension
+- BP: 173/120 at ER Jun 17 (hypertensive crisis level), 157/109 Jun 13 — Stage 2 hypertension
 - Labs: LDL high, A1c 5.7 (pre-diabetes), MCHC low (anemia indicator)
 - **Oncology appointment: July 1, 2026** — fill out form beforehand
 
