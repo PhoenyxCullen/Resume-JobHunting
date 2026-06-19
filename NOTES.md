@@ -214,7 +214,7 @@ titlespacing: {0pt}{−5pt}{4pt}
 ## Health — PCP & Follow-ups
 
 - **PCP:** Daniel Wood, DO — 541-732-8000
-- **Appointment: Monday Jun 22, 4 PM — Dr. Sage** (Dr. Wood unavailable) — cardiac stress test referral + BP discussion
+- **Appointment: Monday Jun 22, check in 3:45 PM, appt 4 PM — Dr. Sage** (Dr. Wood unavailable) — cardiac stress test referral + BP discussion
 - **Bring:** ER after-action report from Asante Three Rivers (Jun 17)
 - **ER visit Jun 17:** Asante Three Rivers Medical Center, Grants Pass — BP 173/120
 - BP: 173/120 at ER Jun 17 (hypertensive crisis level), 157/109 Jun 13 — Stage 2 hypertension
