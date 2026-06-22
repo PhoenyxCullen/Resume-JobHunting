@@ -214,16 +214,25 @@ titlespacing: {0pt}{−5pt}{4pt}
 ## Health — PCP & Follow-ups
 
 - **PCP:** Daniel Wood, DO — 541-732-8000
-- **Appointment: Monday Jun 22, check in 3:45 PM, appt 4 PM — Dr. Sage** (Dr. Wood unavailable) — cardiac stress test referral + BP discussion
+- **Appointment: Monday Jun 22, check in 3:45 PM, appt 4 PM — Sage G. Sherer, PA-C** (Dr. Wood unavailable) — Providence Primary Care Central Point, 870 S Front St Suite 200 — cardiac stress test referral, BP medication, sleep study referral
+- **Appointment: Tuesday Jun 23, 11:00 AM — Clinical Support Regular** — Providence Primary Care Central Point, 870 S Front St Suite 200, Central Point OR 97502 — 541-732-8000 — 15 min appointment
 - **Bring:** ER after-action report from Asante Three Rivers (Jun 17)
+- **Overdue screenings:** Hepatitis C screening, tetanus booster
 - **ER visit Jun 17:** Asante Three Rivers Medical Center, Grants Pass — BP 173/120
 - BP: 173/120 at ER Jun 17 (hypertensive crisis level), 157/109 Jun 13 — Stage 2 hypertension
 - Labs: LDL high, A1c 5.7 (pre-diabetes), MCHC low (anemia indicator)
-- **Oncology appointment: July 1, 2026** — fill out form beforehand
+- **Oncology appointment: July 1, 2026** — arrive 1:50 PM, appt 2:20 PM (1 hour) — NP Consult with Radhika Gali, MD
+  - Asante Heimann Cancer Center Hematology Oncology, 3011 E Barnett Rd, Medford OR 97504 — 541-789-4673
+  - Cannot cancel online — must call to cancel
+  - Questionnaires available Jun 24, 2026 in MyChart
+  - Referred by Dr. Mason (surgeon — full name unknown, check discharge paperwork)
+  - Reason: "not normal growth from samples taken in cecectomy" — mucus-filled appendix + adjacent mucus-like growth; not confirmed malignant; likely mucinous appendiceal neoplasm
+  - Form: filled out Jun 19, 2026
 
 ---
 
 ## Oregon Unemployment (OED) — Status
+- **Weekly claim Jun 14–20: FILED** — confirmation # 0-014-235-471 — reported $85.05 Uber Eats earnings, 7 hrs
 
 - Claim filed June 2026. Claim #: 001-2242885 | Claimant ID: 0001-1070971
 - **WBA: $204/week | MBA: $3,022 total**
@@ -235,6 +244,54 @@ titlespacing: {0pt}{−5pt}{4pt}
 - **Weekly claim must be filed each week** — 3 job search activities required, at least 1 direct employer contact
 - Must report all Uber Eats earnings each week (partial benefits still paid above threshold)
 - **211 call: DONE** — confirmation in email
+
+---
+
+## Health — Recipes
+- BP/LDL/pre-diabetes meal: Rice + Madras Lentils + Eggs — see `~/Documents/recipes/rice-lentils-eggs.md`
+
+---
+
+## Bookmarks
+- karl-voit.at — German researcher into personal information management systems: file naming schemes, tag directories, email organization, hard drive structure, system of systems for storing/sorting/filing data
+
+---
+
+## Deadlines — Financial
+- **Vehicle registration expires July 20, 2026 — $166 renewal due** — required to continue Uber Eats
+- **End of June 2026 — need $650–800 to move to new place** (researched on FB Marketplace)
+- **Still no free RV found** — post "looking for free RV, I do NOT have one to sell/give" on Facebook
+
+## Income — Urgent (June 2026)
+- **Uber Eats** — fastest income, start evenings after Dr. Sage appointment Jun 22
+- **Spark Driver** (Walmart delivery) — apply at sparkdriver.com, background check 2-5 days
+- **Mom's executor** — ask about another $1,000 advance from estate
+- **OED** — Jun 14-20 claim filed, payment pending — check when it hits
+- **Leave 10 mins before appointments** — e.g. 3:35 PM for 3:45 PM Dr. Sage
+
+---
+
+## Health Log — Design Spec (Future Implementation)
+
+### Data Source: bp_log.csv
+- Keep ALL historical data in the CSV forever — never delete rows
+- Log: date, time, systolic, diastolic, pulse, SpO2, HRV RMSSD, stress, resp rate, weight, notes/symptoms
+- Garmin Venu 3 tracks sleep quality — must wear all night for sleep data
+
+### Print Workflow (to implement)
+1. Decrypt bp_log.csv from GPG
+2. Script pulls last ~3 months of rows
+3. Formats into a clean LaTeX table
+4. Injects into Personal Health Summary before compiling
+5. Compiles PDF (2 passes pdflatex), prints, cleans up unencrypted files
+
+### Printed Table Format
+Columns: Date | Time | Sys | Dia | Pulse | SpO2 | HRV | Notes
+Footer: Monitor: Microlife BP3GY1-2N | Watch: Garmin Venu 3 | Scale: Taylor 5329324
+
+### Why 3 months
+- Clinical standard for BP trend analysis (PCP/cardiologist)
+- Full history stays in CSV for specialists/insurance if needed
 
 ---
 
