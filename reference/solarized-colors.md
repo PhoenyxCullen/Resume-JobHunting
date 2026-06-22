@@ -99,6 +99,39 @@ normal and highlighted backgrounds. Example: Vim folded text uses base02 bg + ba
 
 ---
 
+## Visual Hierarchy in Practice
+
+From Ethan Schoonover's own annotations on the color scheme:
+
+> "Monotone and accent colors retain crisp legibility on both light and dark backgrounds.
+> Accent colors have been carefully selected to present an even contrast."
+
+> "The same 16 colors are used in both dark and light modes. Solarized color swaps needed
+> to completely switch between light and dark without losing legibility extends to terminal
+> emulators and even 5 color web page palettes."
+
+> "Non-critical elements such as line numbers are clearly visible without being intrusive
+> or cluttering the view of what matters most — your code."
+
+Applied visual hierarchy (darkest to most attention-grabbing in dark mode):
+
+| Layer             | Colors used          | Examples                              |
+|-------------------|----------------------|---------------------------------------|
+| Background        | base03               | Editor/terminal background            |
+| Highlight bg      | base02               | Selection, current line, folded text  |
+| Non-critical UI   | base01               | Line numbers, gutter, deemphasized    |
+| Body text         | base0                | Normal code, prose                    |
+| Emphasized        | base1                | Headings, important labels            |
+| Syntax/accents    | yellow/orange/red/   | Keywords, strings, errors, links,     |
+|                   | magenta/violet/blue/ | method names, constants — each color  |
+|                   | cyan/green           | carries human-readable semantic meaning|
+
+The accent colors' matched L* (~50–65) means they present equal contrast against
+both dark and light backgrounds, making the same palette usable in either mode
+without any color feeling "lost" or "overwhelming."
+
+---
+
 ## Accent Color Conventions
 
 Accent colors are **foreground (text) only** — never used as backgrounds.
