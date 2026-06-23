@@ -214,19 +214,16 @@ titlespacing: {0pt}{−5pt}{4pt}
 ## Health — PCP & Follow-ups
 
 - **PCP:** Daniel Wood, DO — 541-732-8000
-- **Appointment: Monday Jun 22, check in 3:45 PM, appt 4 PM — Sage G. Sherer, PA-C** (Dr. Wood unavailable) — Providence Primary Care Central Point, 870 S Front St Suite 200 — cardiac stress test referral, BP medication, sleep study referral
-- **Appointment: Tuesday Jun 23, 11:00 AM — Clinical Support Regular** — Providence Primary Care Central Point, 870 S Front St Suite 200, Central Point OR 97502 — 541-732-8000 — 15 min appointment
-- **Bring:** ER after-action report from Asante Three Rivers (Jun 17)
-- **Overdue screenings:** Hepatitis C screening, tetanus booster
-- **ER visit Jun 17:** Asante Three Rivers Medical Center, Grants Pass — BP 173/120
-- BP: 173/120 at ER Jun 17 (hypertensive crisis level), 157/109 Jun 13 — Stage 2 hypertension
-- Labs: LDL high, A1c 5.7 (pre-diabetes), MCHC low (anemia indicator)
+- **Appointment: Monday Jun 22 — COMPLETED — Sage G. Sherer, PA-C** — Providence Primary Care Central Point — details in medical/ (encrypted)
+  - **Community Resource Desk referral** — left VM, callback pending — (541) 601-6793 (Sylvia)
+    - Locations: Stewart Meadows Medical Plaza, 70 Bower Dr Medford OR (2nd floor sports med lobby); PMG Central Point, 870 S Front St Central Point OR (main 1st floor lobby)
+- **Appointment: Tuesday Jun 23, 11:00 AM — Clinical Support Regular (BP check)** — Providence Primary Care Central Point, 870 S Front St Suite 200, Central Point OR 97502 — 541-732-8000
+- **Appointment: Monday Aug 3, 10:00 AM — Wellness visit, Daniel P. Wood, DO** — arrive 9:45 AM
+- **Chiropractor:** McFarland Chiropractic — (541) 772-5000 — 308 Howard St, Medford OR — $48/visit — left VM Jun 22 ~5:30 PM — awaiting callback
 - **Oncology appointment: July 1, 2026** — arrive 1:50 PM, appt 2:20 PM (1 hour) — NP Consult with Radhika Gali, MD
   - Asante Heimann Cancer Center Hematology Oncology, 3011 E Barnett Rd, Medford OR 97504 — 541-789-4673
   - Cannot cancel online — must call to cancel
   - Questionnaires available Jun 24, 2026 in MyChart
-  - Referred by Dr. Mason (surgeon — full name unknown, check discharge paperwork)
-  - Reason: "not normal growth from samples taken in cecectomy" — mucus-filled appendix + adjacent mucus-like growth; not confirmed malignant; likely mucinous appendiceal neoplasm
   - Form: filled out Jun 19, 2026
 
 ---
@@ -243,7 +240,13 @@ titlespacing: {0pt}{−5pt}{4pt}
 - Wage appeal deadline: June 22, 2026 — no action needed (wages accurate)
 - **Weekly claim must be filed each week** — 3 job search activities required, at least 1 direct employer contact
 - Must report all Uber Eats earnings each week (partial benefits still paid above threshold)
+- **A First Choice Staffing Service** (also "The Medical Registry") — (541) 776-7505 — 1150 Crater Lake Ave Ste K, Medford OR 97504 — Mon–Thu 8am–5pm, Fri 8am–noon — has Allen's info, actively circulating to medical employers as of Jun 22, 2026 — no responses back yet — check in periodically
 - **211 call: DONE** — confirmation in email
+- **ACCESS** — (541) 779-6691 — 3630 Aviation Way, Medford OR — housing coordinated entry / Centralized Interest List — Mon–Thu 7:30am–6pm, Fri 8am–4:30pm — left VM Jun 22
+- **ACCESS (rent assistance line per Sylvia/Providence)** — (541) 414-0317
+- **Sylvia — Providence Community Resource Desk** — (541) 601-6793 — referred by Dr. Sage Jun 22 — left VM Jun 22 ~5:15 PM re: housing + rent assistance — awaiting callback
+- **AllCare Health Flexible Services** — (888) 460-0185 — OHP members only — internet assistance + rent assistance (up to 6 months for established rentals) — care coordinator calls back — left VM Jun 22
+- **Housing Authority of Jackson County** — (541) 779-5785 — affordable/subsidized rentals, waitlists — Mon–Thu 8am–4:30pm
 
 ---
 

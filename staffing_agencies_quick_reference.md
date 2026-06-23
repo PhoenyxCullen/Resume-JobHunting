@@ -44,6 +44,17 @@
 
 ---
 
+**8. A First Choice Staffing Service** ⭐ HEALTHCARE FOCUS — ACTIVE CONTACT
+- 1150 Crater Lake Ave #K, Medford, OR 97504
+- (541) 776-7505
+- applicants@afirstchoicestaffing.com
+- Contact: **Karin Wicks** (Owner/Recruiter)
+- Healthcare-focused; small team of female recruiters
+- Also likely has admin/data entry/front desk placements at clinics
+- **Status:** Need to check in with Karin — Jun 2026
+
+---
+
 ## GRANTS PASS AGENCIES (30 min drive)
 
 **8. Confident Staffing - Grants Pass**
