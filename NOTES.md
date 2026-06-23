@@ -220,11 +220,15 @@ titlespacing: {0pt}{−5pt}{4pt}
 - **Appointment: Tuesday Jun 23, 11:00 AM — Clinical Support Regular (BP check)** — Providence Primary Care Central Point, 870 S Front St Suite 200, Central Point OR 97502 — 541-732-8000
 - **Appointment: Monday Aug 3, 10:00 AM — Wellness visit, Daniel P. Wood, DO** — arrive 9:45 AM
 - **Chiropractor:** McFarland Chiropractic — (541) 772-5000 — 308 Howard St, Medford OR — $48/visit — left VM Jun 22 ~5:30 PM — awaiting callback
+- **Lab orders (from Dr. Sage Jun 22):** Hepatitis C antibody + HIV AG/AB 4th gen reflex — ON HOLD until BP medication is stable — do not schedule yet
+- **Community Resource Desk referral — APPROVED (Jun 22)** — schedule via (503) 893-6353 (Portland office) or Sylvia locally (541) 601-6793 — details in medical/
+- **Dtap vaccine overdue** — tetanus/pertussis booster — ask Providence to schedule
 - **Oncology appointment: July 1, 2026** — arrive 1:50 PM, appt 2:20 PM (1 hour) — NP Consult with Radhika Gali, MD
   - Asante Heimann Cancer Center Hematology Oncology, 3011 E Barnett Rd, Medford OR 97504 — 541-789-4673
   - Cannot cancel online — must call to cancel
-  - Questionnaires available Jun 24, 2026 in MyChart
-  - Form: filled out Jun 19, 2026
+  - Questionnaires: DONE on paper Jun 23, 2026
+  - Bring: Personal Health Summary (print from encrypted medical/ before Jul 1)
+- **Laundry:** Do all laundry before Jun 30 — free access ends, paid laundry after that
 
 ---
 
@@ -242,11 +246,16 @@ titlespacing: {0pt}{−5pt}{4pt}
 - Must report all Uber Eats earnings each week (partial benefits still paid above threshold)
 - **A First Choice Staffing Service** (also "The Medical Registry") — (541) 776-7505 — 1150 Crater Lake Ave Ste K, Medford OR 97504 — Mon–Thu 8am–5pm, Fri 8am–noon — has Allen's info, actively circulating to medical employers as of Jun 22, 2026 — no responses back yet — check in periodically
 - **211 call: DONE** — confirmation in email
-- **ACCESS** — (541) 779-6691 — 3630 Aviation Way, Medford OR — housing coordinated entry / Centralized Interest List — Mon–Thu 7:30am–6pm, Fri 8am–4:30pm — left VM Jun 22
-- **ACCESS (rent assistance line per Sylvia/Providence)** — (541) 414-0317
-- **Sylvia — Providence Community Resource Desk** — (541) 601-6793 — referred by Dr. Sage Jun 22 — left VM Jun 22 ~5:15 PM re: housing + rent assistance — awaiting callback
+- **ACCESS** — (541) 779-6691 — 3630 Aviation Way, Medford OR — housing coordinated entry / Centralized Interest List — Mon–Thu 7:30am–6pm, Fri 8am–4:30pm — left VM Jun 22 — system says 1 VM only, do NOT leave another — keep calling back to reach someone live
+- **ACCESS Affordable Housing Application — SUBMITTED Jun 23, 2026** — applied to all Medford properties (Wyatt House, Woodrow Pines, Birch Corners, Four Oaks) — if vacancy, notified within 90 days — if waitlist, added upon submission
+- **ACCESS (rent assistance line per Sylvia/Providence)** — (541) 414-0317 — same 1 VM policy — keep calling live
+- **Sylvia A. Miranda — Providence Community Resource Desk** — sylvia.a.miranda@providence.org — CRD desk (971) 430-2411 — cell/text (541) 601-6793 — email received Jun 23
+  - **Goodwill Training Center** — 11 W. Jackson Ave, Medford OR — 8-week training course (employment)
+  - **RentWell Class** — starting July 2026 — Magali Ramirez will contact Allen to register — helps qualify for rental housing
+  - **Search and apply** for low-income apartments in Medford OR — start now
+  - **St. Vincent de Paul** — can help cover rental application fees — contact when applying
 - **AllCare Health Flexible Services** — (888) 460-0185 — OHP members only — internet assistance + rent assistance (up to 6 months for established rentals) — care coordinator calls back — left VM Jun 22
-- **Housing Authority of Jackson County** — (541) 779-5785 — affordable/subsidized rentals, waitlists — Mon–Thu 8am–4:30pm
+- **Housing Authority of Jackson County** — (541) 779-5785 — affordable/subsidized rentals, waitlists — Mon–Thu 8am–4:30pm (closed noon–1pm for lunch effective May 1) — left VM Jun 23
 
 ---
 
@@ -268,7 +277,7 @@ titlespacing: {0pt}{−5pt}{4pt}
 ## Income — Urgent (June 2026)
 - **Uber Eats** — fastest income, start evenings after Dr. Sage appointment Jun 22
 - **Spark Driver** (Walmart delivery) — apply at sparkdriver.com, background check 2-5 days
-- **Mom's executor** — ask about another $1,000 advance from estate
+- **Mom's executor: Ilene Clark (cousin)** — messaged Jun 23 re: DFAS VSI estate form + requesting $1,000 advance — awaiting response
 - **OED** — Jun 14-20 claim filed, payment pending — check when it hits
 - **Leave 10 mins before appointments** — e.g. 3:35 PM for 3:45 PM Dr. Sage
 
