@@ -59,7 +59,7 @@ Each 2026-05-26 resume has three files: `.md` (source), `.tex` (LaTeX), `.pdf` (
 | `2026-04-26 - Allen Schultz - Cover Letter - REAL ID Specialist - ODOT.md` | REAL ID Specialist — ODOT |
 | `2026-04-26 - Allen Schultz - Cover Letter - Roseburg Litter Patrol - ODOT.md` | Litter Patrol — ODOT (physical; hold until post-surgery) |
 | `2026-04-26 - Allen Schultz - Cover Letter - Kroger.txt` | General role — Fred Meyer/Kroger |
-| `2026-06-15 - Allen Schultz - Cover Letter - Dispatch Coordinator - ODOT.md` | Dispatch Coordinator — ODOT (REQ-201132, **submitted Jun 15, under review**) |
+| `2026-06-15 - Allen Schultz - Cover Letter - Dispatch Coordinator - ODOT.md` | Dispatch Coordinator — ODOT (REQ-201132, **REJECTED Jun 24** — missing emergency dispatch/roadway/leadwork experience) |
 
 ### education/ — Transcripts & Academic Records
 | File | Purpose |
@@ -234,6 +234,8 @@ titlespacing: {0pt}{−5pt}{4pt}
 
 ## Oregon Unemployment (OED) — Status
 - **Weekly claim Jun 14–20: FILED** — confirmation # 0-014-235-471 — reported $85.05 Uber Eats earnings, 7 hrs
+- **First OED payment $204 RECEIVED Jun 23, 2026** — confirmed in bank account
+- **ACCESS called Allen back Jun 24 (morning)** — missed the call — return call ASAP: (541) 414-0317 or (541) 779-6691 — hours Mon–Thu 7:30am–6pm, Fri 8am–4:30pm
 
 - Claim filed June 2026. Claim #: 001-2242885 | Claimant ID: 0001-1070971
 - **WBA: $204/week | MBA: $3,022 total**
@@ -249,6 +251,8 @@ titlespacing: {0pt}{−5pt}{4pt}
 - **ACCESS** — (541) 779-6691 — 3630 Aviation Way, Medford OR — housing coordinated entry / Centralized Interest List — Mon–Thu 7:30am–6pm, Fri 8am–4:30pm — left VM Jun 22 — system says 1 VM only, do NOT leave another — keep calling back to reach someone live
 - **ACCESS Affordable Housing Application — SUBMITTED Jun 23, 2026** — applied to all Medford properties (Wyatt House, Woodrow Pines, Birch Corners, Four Oaks) — if vacancy, notified within 90 days — if waitlist, added upon submission
 - **ACCESS (rent assistance line per Sylvia/Providence)** — (541) 414-0317 — same 1 VM policy — keep calling live
+- **BackerKit — World's Largest Dungeon miniatures** — ~$1,000 pledge from 2024–2025 — fulfillment still pending — do not cancel
+- **Lynette Moon Van Buege (cousin-in-law)** — asked Jun 24 if Allen has a place to put a trailer — potential housing option if a parking spot can be found (Chelle's homestead? Dennis?)
 - **Sylvia A. Miranda — Providence Community Resource Desk** — sylvia.a.miranda@providence.org — CRD desk (971) 430-2411 — cell/text (541) 601-6793 — email received Jun 23
   - **Goodwill Training Center** — 11 W. Jackson Ave, Medford OR — 8-week training course (employment)
   - **RentWell Class** — starting July 2026 — Magali Ramirez will contact Allen to register — helps qualify for rental housing
@@ -266,6 +270,19 @@ titlespacing: {0pt}{−5pt}{4pt}
 
 ## Bookmarks
 - karl-voit.at — German researcher into personal information management systems: file naming schemes, tag directories, email organization, hard drive structure, system of systems for storing/sorting/filing data
+
+---
+
+## Bills & Payments — Urgent
+
+| Bill | Amount | Due | Status |
+|---|---|---|---|
+| **Pandora** | $54.89 | PAST | **CANCEL NOW** — tried to charge over-limit WFCC Jun 24, DECLINED — will retry — go to pandora.com → account → cancel |
+| **U-Haul storage** | ~$61–70 | Jun 27 (Fri) | Pay before it's late |
+| **AFLOC** | $70 minimum | Jun 30 | Pay before end of month |
+| **WFCC credit card** | $56 minimum | PAID Jun 24 | Overlimit: $231.29 — do not use card |
+| **WF Everyday Checking** | monthly fee | pending | Balance only $5.96 — risk of overdraft from fee |
+| **Vehicle registration** | $166 | Jul 20 | Required for Uber Eats — plan ahead |
 
 ---
 
