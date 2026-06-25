@@ -57,7 +57,7 @@ Each 2026-05-26 resume has three files: `.md` (source), `.tex` (LaTeX), `.pdf` (
 | `2026-01-12 - Allen Schultz - Cover Letter - DevOps - Digia.md` | DevOps — Digia |
 | `2026-04-23 - Allen Schultz - Cover Letter - Network Admin - ODOT.md` | Network Admin — ODOT |
 | `2026-04-26 - Allen Schultz - Cover Letter - REAL ID Specialist - ODOT.md` | REAL ID Specialist — ODOT |
-| `2026-04-26 - Allen Schultz - Cover Letter - Roseburg Litter Patrol - ODOT.md` | Litter Patrol — ODOT (physical; hold until post-surgery) |
+| `2026-04-26 - Allen Schultz - Cover Letter - Roseburg Litter Patrol - ODOT.md` | Litter Patrol — ODOT REQ-198659 (**REJECTED Jun 24** — position filled) — was physical role, couldn't take during recovery anyway |
 | `2026-04-26 - Allen Schultz - Cover Letter - Kroger.txt` | General role — Fred Meyer/Kroger |
 | `2026-06-15 - Allen Schultz - Cover Letter - Dispatch Coordinator - ODOT.md` | Dispatch Coordinator — ODOT (REQ-201132, **REJECTED Jun 24** — missing emergency dispatch/roadway/leadwork experience) |
 
@@ -218,6 +218,9 @@ titlespacing: {0pt}{−5pt}{4pt}
   - **Community Resource Desk referral** — left VM, callback pending — (541) 601-6793 (Sylvia)
     - Locations: Stewart Meadows Medical Plaza, 70 Bower Dr Medford OR (2nd floor sports med lobby); PMG Central Point, 870 S Front St Central Point OR (main 1st floor lobby)
 - **Appointment: Tuesday Jun 23, 11:00 AM — Clinical Support Regular (BP check)** — Providence Primary Care Central Point, 870 S Front St Suite 200, Central Point OR 97502 — 541-732-8000
+- **Appointment: Friday Jun 26, 1:00 PM — Treadmill Stress Test — Shannon at Providence** — arrive 12:45 PM — wear walking/running shoes — NO EATING 3–4 hours before (stop eating by ~9–10 AM) — NO CAFFEINE day of test until after
+  - Location: **Providence McAndrews** — same building as general surgery — check in at outpatient counter, 2nd floor
+  - Shannon callback: (541) 732-5082 — **CALL SHANNON when BP medicine is assigned** to confirm it doesn't interfere with stress test before Friday
 - **Appointment: Monday Aug 3, 10:00 AM — Wellness visit, Daniel P. Wood, DO** — arrive 9:45 AM
 - **Chiropractor:** McFarland Chiropractic — (541) 772-5000 — 308 Howard St, Medford OR — $48/visit — left VM Jun 22 ~5:30 PM — awaiting callback
 - **Lab orders (from Dr. Sage Jun 22):** Hepatitis C antibody + HIV AG/AB 4th gen reflex — ON HOLD until BP medication is stable — do not schedule yet
@@ -277,7 +280,7 @@ titlespacing: {0pt}{−5pt}{4pt}
 
 | Bill | Amount | Due | Status |
 |---|---|---|---|
-| **Pandora** | $54.89 | PAST | **CANCEL NOW** — tried to charge over-limit WFCC Jun 24, DECLINED — will retry — go to pandora.com → account → cancel |
+| **Pandora** | $54.89 | PAST | **CANCELLED Jun 24** — card deleted, subscription confirmed cancelled |
 | **U-Haul storage** | ~$61–70 | Jun 27 (Fri) | Pay before it's late |
 | **AFLOC** | $70 minimum | Jun 30 | Pay before end of month |
 | **WFCC credit card** | $56 minimum | PAID Jun 24 | Overlimit: $231.29 — do not use card |
