@@ -1,0 +1,35 @@
+Allen Schultz
+Medford, OR 97504
+801-550-0865
+allen.schultz@gmail.com
+
+June 28, 2026
+
+Hiring Team
+Kelley Create
+3521 Avion Dr
+Medford, OR 97504
+
+Re: Systems Administrator
+
+Dear Hiring Team,
+
+I am writing to apply for the Systems Administrator position at Kelley Create's Medford office. With 15+ years of hands-on IT experience -- including Linux and Windows systems administration, Cisco networking, and client-facing technical support -- I am well prepared for the Tier II escalation and Pre-Sales Engineering responsibilities this role requires.
+
+My systems administration background spans two distinct environments. At RidgeCrest Herbals in Salt Lake City, I was the sole Linux System Administrator and VoIP Administrator for a 15-person company. I maintained the full Linux infrastructure alongside Windows client workstations, administered VirtualBox VMs for development and legacy application support, deployed and managed a FreeSWITCH PBX (15 SIP phones, voicemail, fax, hunt groups), and wrote Bash automation scripts that reduced downtime by 40%. Working as the only IT person on-site required me to own every layer of the stack and document everything for continuity.
+
+At ITT Systems (DoD contractor), I administered classified Cisco networking infrastructure supporting 200+ users in a forward operating environment -- VLANs, ACLs, routing protocols, and hardware from Layer 1 through 3. I also handled Active Directory provisioning, workstation imaging, SATCOM maintenance, and encryption updates. That role demanded both strong technical depth and the ability to work methodically under pressure.
+
+Prior to systems administration, I spent several years at Teleperformance as a Hardware Support Technician on the Dell Tier 2 contract, where I resolved 40+ escalated issues daily via phone and remote desktop (TeamViewer), mentored junior agents as a Resolution Specialist, and supported enterprise and consumer hardware across Dell's full product line.
+
+I hold CompTIA A+ and Security+ certifications and am actively maintaining my Linux skills through LPI (Linux Essentials, 2023) and ongoing personal lab work. I am comfortable with Windows Server, Active Directory, Microsoft 365, Cisco IOS, and Linux administration, and I pick up vendor-specific tools quickly.
+
+I am local to Medford, hold a clean driving record, and am available immediately for full-time on-site work. I would welcome the opportunity to learn more about how this role fits into Kelley Create's client delivery model and to discuss my background in more detail.
+
+Thank you for your consideration.
+
+Sincerely,
+Allen Schultz
+801-550-0865
+allen.schultz@gmail.com
+linkedin.com/in/allen-schultz-89810014

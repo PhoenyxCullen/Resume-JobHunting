@@ -1,0 +1,19 @@
+Dear Usama and Husnain,
+
+Thank you for sending the service agreement. I have reviewed it and am generally agreeable to the terms, however I have a few points I would like to address before signing:
+
+**1. Governing Law & Dispute Resolution (Section 7)**
+As a US-based contractor performing services exclusively on US soil, I would request that governing law and dispute resolution be amended to reflect the laws of the State of Oregon, USA, or at minimum the United States. Pursuing disputes in UK courts is not a practical option for me as an independent contractor.
+
+**2. Termination & Compensation (Section 4)**
+The current language states that if the End Customer terminates the assignment, this Agreement automatically terminates with no liability for compensation. I would request that this be amended to include at minimum payment for hours already worked and confirmed at the time of termination, regardless of the reason for termination.
+
+**3. Scope of Work / Hours Guarantee**
+I acknowledge and confirm my understanding that this is a dispatch/ticket-based engagement with no guaranteed hours or steady workflow. Work will be assigned as needs arise. I want this clearly reflected in the agreement to ensure both parties have aligned expectations.
+
+I am ready to proceed and sign once these points are addressed. Please let me know if these amendments are acceptable.
+
+Thank you,
+Allen Schultz
++1 801-550-0865
+allen.schultz@gmail.com

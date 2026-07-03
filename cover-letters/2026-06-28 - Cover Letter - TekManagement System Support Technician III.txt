@@ -1,0 +1,34 @@
+Allen Schultz
+Medford, OR 97504
+801-550-0865
+allen.schultz@gmail.com
+
+June 28, 2026
+
+Hiring Team
+TekManagement Inc.
+Medford, OR
+
+Re: System Support Technician III (Tier 3)
+
+Dear Hiring Team,
+
+I am writing to apply for the System Support Technician III position. TekManagement's reputation in Southern Oregon is well known -- your recognition as one of Oregon's 100 Best Companies to Work For speaks to a culture I would want to be part of. As a Medford-area IT professional with 15+ years of experience spanning Tier 1 through Tier 3 support, I believe I am a strong match for the senior-level demands of this role.
+
+My highest-impact technical work was as Network Administrator for ITT Systems (a DoD contractor) in Afghanistan, where I was solely responsible for a dual-tier classified network supporting 200+ users. In that environment, there was no senior technician to escalate to -- I handled everything from Cisco switch/router administration (VLANs, ACLs, routing protocols) to Active Directory provisioning, workstation imaging, SATCOM maintenance, and encryption protocol updates. That experience sharpened my ability to diagnose and resolve complex issues independently and under pressure.
+
+At RidgeCrest Herbals in Salt Lake City, I served as the sole Linux System Administrator and VoIP Administrator for a 15-person operation. I administered the full Linux environment, managed Windows XP/7 client workstations, deployed and supported a FreeSWITCH PBX with 15 SIP phones, and wrote Bash automation scripts that reduced system downtime by 40%. Working as the only IT person on-site requires the same self-directed, proactive mindset your Tier 3 role describes.
+
+Earlier in my career at Teleperformance/Dell Tier 2, I was promoted to Resolution Specialist -- mentoring junior agents on complex escalations and providing the advanced troubleshooting that Tier 1 and Tier 2 could not resolve. That is where I built my foundation in hardware diagnostics, remote support (TeamViewer), and multi-platform troubleshooting at volume.
+
+My certifications include CompTIA A+, CompTIA Security+, Linux Essentials (LPI, 2023), and Dell Tier 2 Hardware Certification. I am comfortable with Windows XP through 11, Windows Server, Linux (Debian, Ubuntu, Arch, Manjaro), Cisco IOS, Active Directory, and cloud-adjacent virtualization (VirtualBox, VM administration).
+
+I am local to Medford, available immediately for desk-based and on-site work, and looking for a long-term role where I can contribute at a senior level while continuing to grow. I would welcome the opportunity to speak with you about this position.
+
+Thank you for your time and consideration.
+
+Sincerely,
+Allen Schultz
+801-550-0865
+allen.schultz@gmail.com
+linkedin.com/in/allen-schultz-89810014

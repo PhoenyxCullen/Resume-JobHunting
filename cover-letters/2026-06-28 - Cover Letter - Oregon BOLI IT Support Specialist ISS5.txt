@@ -1,0 +1,36 @@
+Allen Schultz
+Medford, OR 97504
+801-550-0865
+allen.schultz@gmail.com
+
+June 28, 2026
+
+Bureau of Labor and Industries
+Information Systems Unit
+Portland, OR
+
+Re: IT Support Specialist (ISS5) -- REQ-202370
+
+Dear Hiring Team,
+
+I am writing to apply for the IT Support Specialist position (ISS5, REQ-202370) with the Oregon Bureau of Labor and Industries. Oregon state employment has been a long-term career goal for me, and BOLI's mission -- protecting workers and promoting fair workplaces -- is one I am proud to support. I bring 15+ years of IT support experience across Tier 1 through 3, with a strong foundation in end-user support, Active Directory, hardware troubleshooting, and enterprise application administration.
+
+My most relevant experience for this role includes:
+
+End-user and help desk support: At Teleperformance/Dell Tier 2, I resolved 40+ technical issues per day via phone and remote desktop (TeamViewer), covering hardware diagnostics, software support, and escalated troubleshooting across Windows XP and Vista environments. I was promoted to Resolution Specialist, mentoring other agents on complex cases. At RidgeCrest Herbals, I provided in-person desktop support and SSH-based remote administration for a 15-person team, owning everything from workstation maintenance to VoIP support.
+
+Active Directory and user lifecycle: At ITT Systems, I provisioned workstations for domain joining, managed user accounts (create, modify, disable, password reset), handled onboarding and offboarding, and maintained account security in a DoD-classified environment.
+
+Hardware, software, and multi-platform environments: I have supported Windows XP through 11 and Windows Server environments throughout my career, alongside Linux (Debian, Ubuntu, Arch, Manjaro). I am comfortable with Microsoft Office/M365 tooling, documentation, and ticket-based support workflows.
+
+I hold CompTIA A+ and Security+ certifications and an LPI Linux Essentials certification (2023). My background also includes Cisco networking, VoIP administration, and Bash scripting.
+
+I am currently based in Medford, OR, and am open to discussion regarding the location requirements for this role, including any available in-state options. I am available immediately for full-time employment and would welcome the opportunity to speak with you about how my background fits BOLI's needs.
+
+Thank you very much for your consideration.
+
+Sincerely,
+Allen Schultz
+801-550-0865
+allen.schultz@gmail.com
+linkedin.com/in/allen-schultz-89810014

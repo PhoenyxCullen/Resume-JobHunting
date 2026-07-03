@@ -1,0 +1,33 @@
+Hey Brian,
+
+Got a contract offer through Tech People 247 (recruiter: Anaida Saleem) for a Cisco WLC field job. Here's the full breakdown:
+
+THE COMPANY
+- Sharp Brains Global Limited -- UK company, London
+- Contact: Usama Waseem, Nazam Aslam, Husnain Amjad
+- Signed by: Suleman Qureshi, HR Manager
+
+THE JOB
+- Role: Freelance Onsite Network Technician L1/L2
+- Location: 510 Airport Road, Medford OR (PepsiCo/Coca-Cola warehouse site)
+- First task: July 3, 2026
+- Scope: Install Cisco 9800 WLCs, rack & stack, SFPs, fiber, patch cabling, cutover support, remove legacy WLCs, site photos, completion reports
+- Hours: Dispatch/ticket-based, no guaranteed hours -- work when called
+
+THE MONEY
+- $30/hr -- includes travel and transportation
+- Monthly invoicing, paid 15-30 days after invoice submission
+- So July 3 work = payment as late as September
+
+THE CONTRACT PROBLEMS
+1. UK governing law -- disputes go to UK courts. Useless for a US contractor.
+2. Zero compensation if end customer cancels -- they pull the plug, I get nothing, even for hours already worked.
+3. Liability clause -- I'm personally responsible for ANY damages during service. Broad and risky.
+4. Final settlement held hostage -- requires Asset Clearance Form + Data Handover Form signed by site POC. Client can delay payment indefinitely "at their sole discretion."
+5. Non-compete -- 1 year after termination, can't work directly for the same end customer.
+6. No guaranteed hours -- pure dispatch, could be one task and done.
+
+MY DECISION
+Passed on it. The payment delay and UK jurisdiction are dealbreakers given my current situation. Sent a polite decline -- no burned bridges.
+
+Allen
