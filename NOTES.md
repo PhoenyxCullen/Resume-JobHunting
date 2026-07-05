@@ -1,5 +1,5 @@
 # Resume & Job Hunting — Session Notes
-*Reference file for future Claude sessions. Last updated: May 27, 2026.*
+*Reference file for future Claude sessions. Last updated: Jul 5, 2026.*
 
 ---
 
@@ -75,6 +75,15 @@ Each 2026-05-26 resume has three files: `.md` (source), `.tex` (LaTeX), `.pdf` (
 | `staffing_agencies_quick_reference.md` | Local/regional staffing agency contacts |
 | `job_hunting_log.csv` | Application tracking spreadsheet |
 | `NOTES.md` | This file |
+| `YYYY-MM-DD - Checklist.md` | Daily checklists (e.g. `2026-06-27 - Checklist.md`) |
+
+### File Naming Convention
+All dated files use `YYYY-MM-DD - Subject.md` format. Inside the file, the header matches: `# YYYY-MM-DD - Subject (Day of Week)`. Day of week goes in the header only, not the filename. Never use relative date references ("tomorrow", "today") in filenames or headers — always use the actual date.
+
+### Medical Information — Strict Separation
+- **NOTES.md / checklists:** scheduling info only — appointment dates, provider names, phone numbers, locations. Nothing clinical.
+- **medical/ (GPG encrypted):** all PMI/PII — diagnoses, test results, medication decisions, lab values, symptoms, anything clinical.
+- Never log clinical medical details in NOTES.md, memory, or any unencrypted file.
 
 ---
 
@@ -222,7 +231,10 @@ titlespacing: {0pt}{−5pt}{4pt}
   - Location: **Providence McAndrews** — same building as general surgery — check in at outpatient counter, 2nd floor
   - Shannon callback: (541) 732-5082 — **CALL SHANNON when BP medicine is assigned** to confirm it doesn't interfere with stress test before Friday
 - **Appointment: Monday Aug 3, 10:00 AM — Wellness visit, Daniel P. Wood, DO** — arrive 9:45 AM
-- **Chiropractor:** McFarland Chiropractic — (541) 772-5000 — 308 Howard St, Medford OR — $48/visit — left VM Jun 22 ~5:30 PM — awaiting callback
+- **BP medication decision — SENT Jun 27 via MyChart** — agreed to start both amlodipine (CCB) and losartan (ARB) at low doses in liquid formulation. Awaiting prescriptions from Sage Sherer PA-C. Providence closed weekends — prescriptions expected Monday.
+- **Stress test Jun 26 — completed** — results in MyChart (details in encrypted medical log)
+- **Sleep Medicine referral — APPROVED** — call PMG Medford Pulmonary to schedule: 1698 E McAndrews Rd Ste 300B, 541-732-7600 — **PREREQ: BP medication must be stable/at good baseline first — do not schedule until then**
+- **Chiropractor:** McFarland Chiropractic — (541) 772-5000 — 308 Howard St, Medford OR — $48/visit — **Appointment: Wed Jul 1, ~10:30 AM (unconfirmed) — be ready by 9:30 AM**
 - **Lab orders (from Dr. Sage Jun 22):** Hepatitis C antibody + HIV AG/AB 4th gen reflex — ON HOLD until BP medication is stable — do not schedule yet
 - **Community Resource Desk referral — APPROVED (Jun 22)** — schedule via (503) 893-6353 (Portland office) or Sylvia locally (541) 601-6793 — details in medical/
 - **Dtap vaccine overdue** — tetanus/pertussis booster — ask Providence to schedule
@@ -231,11 +243,13 @@ titlespacing: {0pt}{−5pt}{4pt}
   - Cannot cancel online — must call to cancel
   - Questionnaires: DONE on paper Jun 23, 2026
   - Bring: Personal Health Summary (print from encrypted medical/ before Jul 1)
-- **Laundry:** Do all laundry before Jun 30 — free access ends, paid laundry after that
+- **Laundry:** Free access runs through end of July 2026 — tied to stay at Ed's RV (extended to end of July)
 
 ---
 
 ## Oregon Unemployment (OED) — Status
+- **Weekly claim Jun 28–Jul 4:** NOT yet filed — 5 activities completed (AllCare Health + Ko-Kwel + Viasat applications, Kalsoom Fatima + Izhan Yousaf LinkedIn connections) — 3 direct employer contacts — file next claim day
+- **Weekly claim Jun 21–27: FILED Jul 1** — confirmation # 0-014-354-047 — reported $59.16 Uber Eats earnings, 6 hrs — 2 direct contacts (Tech People 247/Sharp Brains Jun 25; A First Choice Staffing Jun 22) + 3 work-seek activities
 - **Weekly claim Jun 14–20: FILED** — confirmation # 0-014-235-471 — reported $85.05 Uber Eats earnings, 7 hrs
 - **First OED payment $204 RECEIVED Jun 23, 2026** — confirmed in bank account
 - **ACCESS called Allen back Jun 24 (morning)** — missed the call — return call ASAP: (541) 414-0317 or (541) 779-6691 — hours Mon–Thu 7:30am–6pm, Fri 8am–4:30pm
@@ -247,13 +261,17 @@ titlespacing: {0pt}{−5pt}{4pt}
 - **Identity Verification: DONE — completed Jun 16, 2026 at USPS post office**
 - **Weekly claim for Jun 8-14: FILED**
 - Wage appeal deadline: June 22, 2026 — no action needed (wages accurate)
-- **Weekly claim must be filed each week** — 3 job search activities required, at least 1 direct employer contact
+- **Weekly claim must be filed each week** — 5 job search activities required, at least 2 direct employer contacts
+- **Frances Online — Direct Contact field options:**
+  - Contact Method: In-person, Email, Mail, Phone, Other
+  - Results: Applied for job, Interviewed, Hired, Not hired, Not hiring
 - Must report all Uber Eats earnings each week (partial benefits still paid above threshold)
 - **A First Choice Staffing Service** (also "The Medical Registry") — (541) 776-7505 — 1150 Crater Lake Ave Ste K, Medford OR 97504 — Mon–Thu 8am–5pm, Fri 8am–noon — has Allen's info, actively circulating to medical employers as of Jun 22, 2026 — no responses back yet — check in periodically
 - **211 call: DONE** — confirmation in email
 - **ACCESS** — (541) 779-6691 — 3630 Aviation Way, Medford OR — housing coordinated entry / Centralized Interest List — Mon–Thu 7:30am–6pm, Fri 8am–4:30pm — left VM Jun 22 — system says 1 VM only, do NOT leave another — keep calling back to reach someone live
 - **ACCESS Affordable Housing Application — SUBMITTED Jun 23, 2026** — applied to all Medford properties (Wyatt House, Woodrow Pines, Birch Corners, Four Oaks) — if vacancy, notified within 90 days — if waitlist, added upon submission
 - **ACCESS (rent assistance line per Sylvia/Providence)** — (541) 414-0317 — same 1 VM policy — keep calling live
+- **Ed has given Allen one more month (until end of July 2026)** — confirmed Jun 27. Breathing room secured.
 - **BackerKit — World's Largest Dungeon miniatures** — ~$1,000 pledge from 2024–2025 — fulfillment still pending — do not cancel
 - **Lynette Moon Van Buege (cousin-in-law)** — asked Jun 24 if Allen has a place to put a trailer — potential housing option if a parking spot can be found (Chelle's homestead? Dennis?)
 - **Sylvia A. Miranda — Providence Community Resource Desk** — sylvia.a.miranda@providence.org — CRD desk (971) 430-2411 — cell/text (541) 601-6793 — email received Jun 23
@@ -263,6 +281,13 @@ titlespacing: {0pt}{−5pt}{4pt}
   - **St. Vincent de Paul** — can help cover rental application fees — contact when applying
 - **AllCare Health Flexible Services** — (888) 460-0185 — OHP members only — internet assistance + rent assistance (up to 6 months for established rentals) — care coordinator calls back — left VM Jun 22
 - **Housing Authority of Jackson County** — (541) 779-5785 — affordable/subsidized rentals, waitlists — Mon–Thu 8am–4:30pm (closed noon–1pm for lunch effective May 1) — left VM Jun 23
+  - **Section 8 application SUBMITTED Jun 25, 2026**
+  - Control Number: **S800147**
+  - Registration Code: **B6F52Q** (expires Aug 24, 2026 — create account at hajc.net before then)
+  - **Lilac Meadow RD public housing application SUBMITTED Jun 25, 2026**
+  - Control Number: **LMRD00154**
+  - Registration Code: **6HC8J9** (expires Aug 24, 2026 — same account at hajc.net)
+  - Account at hajc.net lets you update info, message HA, exchange documents, check status
 
 ---
 
@@ -281,7 +306,7 @@ titlespacing: {0pt}{−5pt}{4pt}
 | Bill | Amount | Due | Status |
 |---|---|---|---|
 | **Pandora** | $54.89 | PAST | **CANCELLED Jun 24** — card deleted, subscription confirmed cancelled |
-| **U-Haul storage** | ~$61–70 | Jun 27 (Fri) | Pay before it's late |
+| **U-Haul storage** | AA0384M: $61.93 / AA3935Q: $71.90 | 7/27 & 7/16 | $0 balance both units — enrolled in auto pay, no action needed |
 | **AFLOC** | $70 minimum | Jun 30 | Pay before end of month |
 | **WFCC credit card** | $56 minimum | PAID Jun 24 | Overlimit: $231.29 — do not use card |
 | **WF Everyday Checking** | monthly fee | pending | Balance only $5.96 — risk of overdraft from fee |
@@ -327,10 +352,391 @@ Footer: Monitor: Microlife BP3GY1-2N | Watch: Garmin Venu 3 | Scale: Taylor 5329
 
 ---
 
+## Hardware — ashvolund (System76 Bonobo WS, formerly "Kirby")
+
+Order #177521, shipped Aug 21, 2024. Serial: 8O08SC235433.
+
+**Name origin:** Phoenyx (ash = phoenix burns to ash before rising) + Völundr (Norse smith god) = ashvolund. DevOps beast identity.
+
+| Component | Spec |
+|---|---|
+| CPU | Intel i9-14900HX — 5.8 GHz, 8 P-cores + 16 E-cores, 36MB cache — **VT-d supported** |
+| GPU | NVIDIA RTX 4080 12GB — 7424 CUDA cores — GPU passthrough possible but complex |
+| RAM | 64GB DDR5 4800MHz (2x32GB) |
+| Storage | 3x 4TB PCIe Gen 4 NVMe = **12TB total** |
+| Display | 17.3" 2K QHD 240Hz matte |
+| Wireless | WiFi 6E + Bluetooth 5.3 |
+| OS | Qubes OS 4.3.2 (RC) |
+
+### Pending setup (do when back on ashvolund)
+1. **Apply hostname in dom0:** `sudo hostnamectl set-hostname ashvolund` + update `/etc/hosts`
+2. **URGENT security patch:** IO translation to hypervisor breach vulnerability — `sudo qubes-dom0-update` then update all VMs
+3. **Arch Linux template VM** — no community Arch template for Qubes 4.3 yet; custom build in progress
+4. **fabric** (CLI multi-AI tool) — install in isolated AI-only AppVM using Arch template
+5. **GPG vault qube** — dedicated AppVM, no NetVM assigned (fully air-gapped), master GPG key operations only (sign subkeys, update expiration, certify). Daily use stays on YubiKey subkeys in normal AppVMs.
+6. **Find YubiKey(s)** — needed for subkey daily use; confirm what's loaded on card
+7. **Find encrypted backup drive** (LUKS, set up previously) — contains master GPG key export; recovery layer
+
+### Networking for ashvolund
+- No switch/hub available — one ethernet cable runs desktop→router
+- ashvolund has WiFi 6E but router signal is weak at RV (2.4GHz barely reaches, 5GHz doesn't)
+- **cullenholme has WiFi card** (`wlp11s0`, currently down) — can broadcast hotspot for ashvolund via NetworkManager shared connection — good option to set up
+- Fallback: phone tether (Samsung A71 5G) — unlimited but 5GB cap, avoid big downloads over tether
+- For initial ashvolund setup session (OS updates, model downloads): move ethernet cable to ashvolund or use cullenholme hotspot
+
+### Planned qubes
+- Arch Linux work/dev qube
+- AI-only isolated qube (fabric + Ollama)
+- GPG vault qube (no network, master key only)
+- Gaming qube (Garuda Linux + RTX 4080 passthrough)
+- Windows work qube (network access)
+
+---
+
+## GPG Key Setup
+
+- Master secret key: exported text file (.asc) on cullenholme + encrypted backup drive (LUKS)
+- **Do NOT store master key on networked machine day-to-day** — vault qube on ashvolund is the right home
+- YubiKey holds subkeys (sign/encrypt/auth) for daily use
+- **Updating expiration on YubiKey-stored key:** possible — `gpg --edit-key <keyid>` → `expire` — YubiKey performs the signing operation for the new self-signature
+- **Replacing keys on YubiKey:** `gpg --card-edit` → `admin` → `factory-reset` — wipes card, then reload with `keytocard`
+- GPG key ID: `0xA3D95D509B06D5E3`
+- Need to: find YubiKey(s), find encrypted backup drive, set up vault qube on ashvolund
+
+---
+
+## fabric — CLI Multi-AI Tool
+
+- Heard about on YouTube — CLI tool, supports multiple AI providers (local + cloud) from one interface
+- Install in isolated AI-only AppVM on ashvolund (Arch Linux template)
+- Supports Ollama (local models), OpenAI, Claude, Gemini, and more
+- ashvolund specs (64GB RAM, RTX 4080 12GB) can run large local models: Llama 3.1 70B quantized
+- Big downloads needed for initial setup — do over ethernet, not phone tether
+- GitHub: danielmiessler/fabric
+
+---
+
 ## Keyboard — Cooler Master MK770
 
 - Model: MK-770-MCKR1-US (Kailh Box V2 Linear Red, Bluetooth/2.4GHz, hot-swap)
 - Ordered Jun 10, delivered Jun 16 to KNH — **picked up Jun 16, in car**
+
+---
+
+## Cisco 9800 WLC Job — Sharp Brains / Tech People 247 — DECLINED Jun 27
+
+- **Recruiter:** Anaida Saleem — Tech People 247
+- **Company:** Sharp Brains Global Limited, London UK — contacts: Usama Waseem, Nazam Aslam, Husnain Amjad, Suleman Qureshi (HR)
+- **Pay:** $30/hr including travel — 1099 freelance, monthly invoicing 15–30 days after submission
+- **Type:** Dispatch/ticket-based, no guaranteed hours
+- **First task:** July 3, 2026 — 510 Airport Rd, Medford OR (PepsiCo/Coca-Cola site)
+- **Interview:** Completed Jun 25 via Teams
+- **Service agreement received:** Jun 27
+- **DECLINED Jun 27** — reasons: UK governing law (disputes in UK courts), zero compensation on end customer termination, 30-day payment delay, no guaranteed hours, broad personal liability clause
+- **Decline letter:** `2026-06-27 - Sharp Brains Decline.txt` — **SENT Jun 28, 8:04 AM** to usama.waseem@sharpbrains.co.uk
+- **Reference No:** SD/555-785-122
+
+---
+
+## Job Applications — Jun 28, 2026
+
+- **Oregon BOLI IT Support Specialist (ISS5)** — REQ-202370 — Portland OR — $5,779–$8,738/mo — submitted via Workday Jun 28 — status: Application Under Review — resume: IT Tech Support — cover letter: `cover-letters/2026-06-28 - Cover Letter - Oregon BOLI IT Support Specialist ISS5.txt` — deadline was Jul 2
+- **Kelley Create Systems Administrator** — Medford OR — $27–$35/hr — submitted via Indeed Easy Apply Jun 28 — resume: IT Tech Support — note: mixed reviews (1.5/5 sysadmin), O365 gap noted
+- **TekManagement System Support Technician III** — Medford OR — $70–90K — emailed jobs@tekmanagement.com Jun 28 — resume: IT Tech Support — cover letter: `cover-letters/2026-06-28 - Cover Letter - TekManagement System Support Technician III.txt` — NOT same as Jun 19 Tier I application
+
+---
+
+## Certifications to Pursue
+
+- **M365/O365** — exposed as gap during Kelley Create application (they require 3 yrs O365 experience). Entry cert: MS-900 (Foundation). Admin-level cert: MS-102 (Administrator). Self-study friendly. Do after immediate job/health priorities stabilize.
+
+---
+
+## Session — Wednesday, July 1, 2026
+
+### Housing — RV Stay Extended Through July
+- **Ed's RV stay extended through end of July 2026**
+- **Rent: $500/month to Ed — due ASAP for July**
+- Laundry access also runs through end of July
+- Ashvolund setup must be completed while still at RV (stable power + internet)
+- $500 target: $102 bowling winnings in hand; need ~$398 more from Uber Eats; July 4th weekend is high-earning opportunity
+
+### Oncology — Completed Wednesday, July 1, 2026
+- Appointment with Dr. Radhika Gali, Asante Heimann Cancer Center, 14:20
+- **Result:** Not enough data to indicate need to look further
+- **Plan:** Blood test every 6 months → drop to yearly → phase out altogether
+- No further action required beyond following the monitoring schedule
+
+### OED Weekly Claim
+- **Jun 21–27 claim: FILED Wednesday, July 1, 2026** ✓
+
+### Wells Fargo CC — Over Limit
+- Epoch Times attempted charge $7.99 on Jul 1 — **DECLINED** (card over limit)
+- Epoch Times subscription **confirmed canceled** (cancellation email received Jul 1)
+- WF CC is currently over its credit limit — priority: pay it below limit ASAP, then below 30% utilization
+- Auto-pay plan: set up recurring transfer via WF online after Tuesday Uber deposit clears (lands Tuesday at AFFCU, autopay Wednesday/Thursday)
+
+### mycreditscore.com — status unknown, verify on bank statement
+
+### World's Largest Dungeon Miniatures
+- No shipping notification as of Jul 1 — still in BackerKit fulfillment
+- As of Jun 9: PDFs being finalized (Book 1 Regions A-D updated on DriveThruRPG)
+- Physical miniatures not yet shipped — no announced ship date
+
+### Uber / AFFCU Deposit Timing
+- Uber weekly deposits land **Tuesday** at AFFCU (not Monday)
+- Schedule any autopay for liabilities (AFLOC, WF CC) on **Wednesday or Thursday** to ensure funds cleared
+
+### Financial Snapshot — Wednesday, July 2, 2026
+**AFCU:**
+- Premium Checking ****9766: $4,378.56 balance / ~$3,808 available (after ~$570 pending)
+- Share Savings ****9766: $23.00
+- Line of Credit ****9766: $1,941.38 balance | $70 min payment due 7/30/2026
+
+**Wells Fargo:**
+- Everyday Checking ****4927: $44.96
+- Platinum Card ****3986: $990.37 balance | $800 limit | **$190.37 OVER LIMIT — due NOW**
+  - Last payment: $66 on 06/28
+  - Late fees: $25 (May), $40 (June) — set up autopay to prevent future fees
+  - Cash advance $100 from April still accruing higher interest rate
+  - HumbleBundle $16.25/mo — NOT cancelled, still charging — decide to keep or cancel
+
+**Immediate actions:**
+1. Transfer $200+ from AFCU → WF checking → pay WF CC overlimit (brings card under $800)
+2. Set up WF CC autopay for minimum payment
+3. Pay Ed $500 cash for July rent (Thursday July 2)
+4. Cancel ViewFreeScore.com — phone: 1-888-548-4324 (charge still pending 06/30, $29.95)
+
+### Subscriptions Audit — July 2026
+**AFCU card (active):**
+- T-Mobile: $83/mo (phone)
+- Amazon Prime: $14.99/mo (verify if $4.99 is separate Prime Video channel)
+- Google One: $18.42/mo (cloud storage)
+- Audible: ~$15-22/mo (keeping)
+- ANTHROPIC Claude Pro: $20/mo
+- Costco membership: $130/yr (renewed 07/01 — keeping)
+
+**AFCU card (confirmed cancelled):**
+- Friends & Fables (fables.gg) — cancelled ~Jul 2
+
+**AFCU card (verify on bank statement — cancel if still charging):**
+- ViewFreeScore.com — $29.95 — cancel: 1-888-548-4324
+- mycreditscore.com — amount unknown — website was broken; block via bank if still charging
+
+**WF card (active):**
+- Crunchyroll: $9.99/mo (keeping)
+- Netflix: $19.51/mo (keeping)
+- WorkSolo: $27/mo (keeping)
+- HumbleBundle: $16.25/mo — **KEEPING**
+
+**WF card (confirmed cancelled):**
+- Epoch Times — cancelled 07/01/2026
+- Medium — cancelled 06/05/2026
+- Disney Plus — cancelled, ended 06/10/2026
+- Pocket FM — cancelled, ended 06/28/2026
+
+**Uber income (AFCU deposits):**
+- Deposits via RASIER/RAISER LLC — land Tuesday weekly
+- Recent: $75.46 (06/09), $85.05 (06/23), $59.16 (06/30)
+
+**OED unemployment (AFCU deposits):**
+- $204/week — EMPLOYMT BENEFITUI BENEFIT PPD
+- Recent: $204 (06/23), $204 (06/30)
+
+### Estate / DFAS Bridge Funds — June 2026
+- **Ilene Clark (cousin/executor)** deposited $6,000 total from mom's estate as bridge money while DFAS VSI backpay is pending
+  - $1,000 deposited 06/13 at Cottonwood Heights AFCU branch
+  - $5,000 deposited 06/24 at Cottonwood Heights AFCU branch
+- This is NOT income — it's a bridge loan/advance against the estate pending VSI resolution
+- Separate from the $1,000 advance request that was still open on the checklist — clarify with Ilene whether that's been satisfied or is still owed
+
+### RV Opportunity — Sean's Church Contact (Wednesday, July 1, 2026)
+- **Unit: 2019 Keystone Montana 20th Anniversary Edition** — fifth wheel (NOT self-drivable)
+- Specs confirmed: washer/dryer, full bath, full kitchen — matches destination RV vision exactly
+- **Asking price: $55k**
+- **Tow vehicle required:** fifth wheel needs 3/4 or 1-ton pickup (F-250/350, Ram 2500/3500) — Allen does not have one
+- **Workaround:** park permanently at Chelle's homestead — only needs one tow to get there; pay someone with a truck to move it once
+- **Price vs VSI:** $55k vs ~$28k backpay — gap needs financing or negotiation
+- **Payment plan possible** — seller is a church member, personal connection through Sean; may accept payments over time directly (no bank, potentially no interest)
+- **Next step:** Have Sean float the idea — "friend is interested but waiting on a federal payment, open to discussing terms?"
+- Contact: Sean Keller (Facebook conversation, July 1)
+
+### RV Shopping — July 3, 2026
+Browsing Facebook Marketplace for RV/housing options. Key finds:
+
+- **1993 Vectra Winnebago — $2,300, Sprague River (50mi east of Klamath Falls)** — 454 big block, under 50k miles, runs/drives, title in hand. Needs airbags for shocks, radiator cap, generator maintenance. Sitting 2 years. Remote location is a risk.
+- **1996 Ford Hurricane — $5,200, Cave Junction** — 460 big block, 57k miles, new fuel pump + battery, solid roof/floor, tow dolly included. **Registration not current, bill of sale only — verify clean title before pursuing.** Best near-term option if title is clear.
+- **2019 Keystone Montana 20th Anniversary (Sean's contact) — $55k** — fifth wheel, payment plan possible through church connection.
+- **Strategy:** Bridge RV (Hurricane/Winnebago) now → upgrade to Montana or similar when VSI lands
+- **Tow dolly on Hurricane** means car can be towed behind — enables full mobile setup (RV parked, car for Uber/errands)
+- Needs to learn trailer driving — backing up is the hard part, forward towing is intuitive
+
+### Chelle Conversation — Thursday, July 3, 2026 (bowling)
+- Storage on homestead: **undecided** — may require frequent moving, not ideal for U-Haul pod contents
+- Montana fifth wheel parking: NOT going to Chelle's — will go to a permanent RV park instead
+- Staying option: not discussed/resolved
+
+### Housing Plan — Updated July 3, 2026
+- **Ed's deadline: end of July 2026** — confirmed, full month runway
+- **Tomorrow: look at private-sale motorhome at Dennis's property** — self-driving, worth ~$10k, buying for less, word of mouth from bowling. Brand/model unknown.
+  - New tires confirmed
+  - Engine battery needs attention — negotiate or have seller replace
+  - Rear lights working
+  - Clean title claimed — seller needs to locate it. **DO NOT pay until title is physically in hand.**
+  - Dennis onsite at his barbershop on same property
+  - Taking experienced buyers from KNH to inspect
+  - Ilene (estate executor) approved — estate will cover cost, deducted from VSI before Allen gets remainder
+  - **Ilene sending $5,500** — $5,200 for RV + $300 buffer for trip permit/incidentals
+  - Ilene deposits directly to AFCU (Cottonwood Heights branch ACH) — same as prior $1k/$5k deposits
+  - No bank holiday issue — ACH transfer, not branch transaction
+  - Price negotiated down from $10k to $5,200 already — firm, seller wants it gone
+  - Seller lived in it 2 years — systems were actively used, good sign
+  - Year/model unknown — check VIN on dash when inspecting tomorrow
+- **Bridge motorhome = immediate housing only** — NOT an Uber vehicle, too impractical
+- **Current car** continues for Uber until camper van is acquired
+- **Montana fifth wheel (eventual)** — permanent spot at RV park with washer/dryer, full kitchen. Not Chelle's property.
+- **Two-RV end state:** cheap motorhome now → upgrade to Montana/similar when VSI lands → park permanently at RV park
+
+### Session — Friday, July 3, 2026
+
+- **RV viewing postponed** — Dennis has a family situation with his father, may be holiday related
+- **Ilene already deposited $5,500** to AFCU — earmarked for RV purchase, do not spend
+- **UPS now at full battery** — load 2/5, Ildveilbroen on its own outlet (not on UPS)
+- **RV has no running water** — Ed using the only hose that reaches for pressure washing rental property in Grants Pass
+- **Outlet that UPS is on has tripped before** — risk of unclean cullenholme shutdown if it trips while Allen is out; shut down cullenholme before leaving today
+- **T-Mobile visit today** — check unlimited premium data plan with USB tethering for ashvolund; ask specifically about hotspot data allowance
+- **YubiKey is with Allen** — somewhere in RV, search tonight when back
+- **Today's plan:** lunch → T-Mobile → job applications (5 target) → back tonight
+
+### Open Question — Property/Windfall
+- Allen mentioned a potential larger windfall and a possible property stake ("winning a house") — details unclear, needs follow-up conversation
+
+### Move-Out Plan — Post This Week Priority
+- $500/month to Ed is a stopgap — goal is to move out of Ed's RV ASAP after this week
+- Build move-out plan once immediate demands (bathroom, $500, ashvolund) are handled
+- Key levers: VSI/DFAS backpay, Uber income, housing options (Chelle, free RV, Section 8)
+
+### Ed's Demands — Due Thursday, July 2, 2026
+- **1. Clean the bathroom in Ed's house** (not the RV) — do first thing Thursday morning
+- **2. Pay $500 rent for July** — due Thursday July 2
+- $500 plan: check AFFCU balance Thursday morning — Allen thinks it's doable
+- Also check at same time: which card mycreditscore.com charged and cancel it
+
+### Thursday, July 2 — Morning Plan
+- Check AFFCU balance + mycreditscore charge (do together, both in banking app)
+- Pay Ed $500 for July rent
+- Clean Ed's bathroom (top to bottom: toilet → sink → mirror → tub → floor → trash)
+- Laundry (free access through end of July)
+- Ashvolund: security patch (`sudo qubes-dom0-update`) + setup tasks
+- Boot.dev session
+
+### Network — Ildveilbroen (Nighthawk Router) at RV
+- IP: `10.24.78.1/24`
+- Moved to its own power port (not on UPS) after breaker trip
+- UPS protection pending — connect after battery recharges tonight
+- ashvolund and cullenholme both at RV on this network as of Jul 1
+
+### Session — Sunday, July 5, 2026
+
+#### System76 Support Call — Monday July 7
+- Ashvolund kernel panic during Qubes 4.3.1 initial update — one of 3 NVMe drives dropped out
+- Caused /dev/mapper/qubes-dom0-root not found on reboot
+- Ambient temp 73°F — not a heat issue — likely hardware seating or defect
+- Try reseating all 3 NVMe drives first, then call if issue persists
+- **Call System76 support Monday July 7** — Order #177521, Serial: 8O08SC235433
+- Check warranty status on call
+
+#### cullenholme Boot Message — Resolved
+- Mystery "EFI boot partition file missing" message at boot was from the **SanDisk USB (sdd)** being scanned by UEFI firmware (Boot0006), not from cullenholme's own EFI partition
+- cullenholme boot chain fully verified: EFI partition clean, /boot files all present, grub.cfg references all valid, resume UUID valid (sdc1 66GB swap)
+- No action needed on cullenholme
+
+#### Qubes 4.3.1 USB — DONE
+- Downloaded Qubes-R4.3.1-x86_64.iso
+- GPG verified: Good signature from "Qubes OS Release 4.3 Signing Key" (F3FA3F99D6281F7B3A3E5E871C3D9B627F3FADA4)
+- SHA256: `6ab99dee2c7a7b2c32053d3531084aaf3af703815842b67f90a87ba324527db6`
+- dd'd to SanDisk 3.2Gen1 USB (/dev/sdd, 57.3GB) — write verified (USB SHA256 matches ISO)
+- USB ejected and ready to boot ashvolund for Qubes 4.3.1 install
+- GPG keyring has: Qubes Master Signing Key (ultimate), Release 4.2 Key (full), Release 4.3 Key (full)
+
+### Ashvolund Setup — Priority List (do before losing RV)
+1. **Security patch (URGENT):** `sudo qubes-dom0-update` then update all VMs (hypervisor breach vulnerability)
+2. **Hostname:** `sudo hostnamectl set-hostname ashvolund` + update `/etc/hosts`
+3. **Find YubiKey(s)** — needed for daily GPG subkey use
+4. **Find LUKS encrypted backup drive** — master GPG key recovery
+5. **Finish Arch Linux template VM build**
+6. **cullenholme WiFi hotspot** (`wlp11s0`) — internet for ashvolund without phone tether
+
+### Job Leads from Email — Jul 1
+- **DebtNext System Administrator at Crown Asset Management** — Medford OR — via Indeed alert — check and apply
+- **DevOps Engineer at Franklin Fitch** — up to $150K/yr — via LinkedIn
+- **Junior Infrastructure Cloud Engineer at Gotham Technology Group** — via LinkedIn
+- **TEKsystems technical recruiter** — LinkedIn connection request — worth responding
+
+---
+
+## Session — Friday, July 4, 2026
+
+### Surgery Clearance — Full Weight Restored
+- Allen confirmed full weight clearance as of July 4, 2026
+- Physical restrictions (no heavy lifting) from May 18 cecectomy are fully lifted
+- Physical and outdoor roles no longer need to be flagged
+
+### Flameshot — Fixed (Downgraded to 13.3.0)
+- Problem: Flameshot 14.0.0 (upgraded Jun 26) broke on MATE desktop — Qt6.11 incompatibility
+- Error: "Unable to capture screen" — no GUI, no screenshot possible
+- Fix: Downgraded to 13.3.0-2 via Arch Linux Archive
+  ```
+  sudo pacman -U /tmp/flameshot-13.3.0-2-x86_64.pkg.tar.zst
+  ```
+- **Optional future protection:** Add `IgnorePkg = flameshot` to `/etc/pacman.conf` to prevent auto-upgrade
+- Status: Working as of July 4, 2026
+
+### OED — Week Jun 28–Jul 4 Activities (file next claim day)
+5 work search activities completed this week:
+1. **AllCare Health** — Service Desk Technician I — applied via ADP (direct employer contact)
+2. **Ko-Kwel Casino Resort** — IT Help Desk Technician — applied via iSolved (direct employer contact)
+3. **Viasat** — Data Entry Support Trade Compliance — applied via iCIMS (direct employer contact)
+4. **Kalsoom Fatima (recruiter)** — LinkedIn connection — IT/network recruiter
+5. **Izhan Yousaf / Fixcruit** — LinkedIn connection — IT recruiter / CEO
+
+All 5 logged in job_hunting_log.csv.
+
+### Job Applications — July 4, 2026
+- **AllCare Health — Service Desk Technician I** — Grants Pass OR — $27.88–$32.69/hr — Req ID 1205 — submitted via ADP — resume: IT Tech Support — cover letter: `cover-letters/2026-07-04 - Cover Letter - AllCare Health Service Desk Technician I.txt` — attached LPI cert — follow up Jul 18
+- **Ko-Kwel Casino Resort — IT Help Desk Technician** — Medford OR — submitted via iSolved — resume: IT Tech Support — cover letter: `cover-letters/2026-07-04 - Cover Letter - Ko-Kwel Casino Resort IT Help Desk Technician.txt` — attached LPI cert — gaming license + background check required (tribal employer: Coquille Indian Tribe) — follow up Jul 18
+- **Viasat — Data Entry Support Trade Compliance** — Remote (OR) — $17.07–$27.16/hr — Job ID 6188 — submitted via iCIMS — resume: Data Entry — cover letter: `cover-letters/2026-07-04 - Cover Letter - Viasat Data Entry Support Trade Compliance.txt` — contingent/temp — US citizenship required — follow up Jul 18
+- **Ashland School District — IT Support Specialist II** — Ashland OR — $24.52–$30.25/hr — Job ID 1207 / Posting 26-65 — NOT yet submitted — cover letter ready: `cover-letters/2026-07-04 - Cover Letter - Ashland School District IT Support Specialist II.txt` — apply at applitrack.com/ashland5/onlineapp/ — **DEADLINE: July 29, 2026**
+
+### Declined — Sharp Brains / Hardy Industries
+- **Sharp Brains** (Tech People 247/Anaida Saleem) — already declined Jun 27 (bad contract: UK law, no guaranteed hours, personal liability, 30-day payment delay). Came up again as job suggestion Jul 4 — still declined.
+- **Hardy Industries** — 1099 dispatch-based smart hands contractor, 1.0/5 stars — same model as Sharp Brains. Skipped.
+
+### LPI Cert — Copied to Project Folder
+- `LPI Linux Essentials Certificate - Allen Schultz.pdf` — copied from `~/Documents/LE-1.pdf`
+- Use as attachment on IT job applications
+
+### DFAS — Estate Check Wrong Zip Code
+- **DFAS letter received:** Check for **$28,931.49** payable to **Estate of Penny Schultz** was mailed to wrong zip code
+  - Address on check: 1717 View Pl, Medford OR **95704** (wrong — should be **97504**)
+  - Letter signed by: **Sharon C. Somers** — DFAS — 1-667-894-4808
+- **Non-Receipt form** is on the back of the letter
+- **Allen's next steps:**
+  1. Check KNH mail for the physical check (despite wrong zip, may have been delivered)
+  2. Check car for any letter/check that may have arrived earlier
+  3. If not found: fill out Non-Receipt form (back of letter) and return to DFAS
+- **Contact:** Sharon C. Somers — 1-667-894-4808
+- Do NOT fill out Non-Receipt form until confirming check was not physically delivered
+
+---
+
+## Post-VSI Shopping List
+
+- Lap desk with wrist rest for car use (~$20-30)
+- N100 mini PC for car dev environment
+- Raspberry Pi 5 for exit nodes at friends' networks
+- **Steam Deck** — native PoE2 + portable gaming, no streaming/latency issues
+- Google Pixel (6a or 7a) + GrapheneOS
 
 ---
 

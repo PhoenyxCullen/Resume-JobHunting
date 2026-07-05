@@ -1,0 +1,38 @@
+Allen Schultz
+Medford, OR 97504
+801-550-0865
+allen.schultz@gmail.com
+
+July 4, 2026
+
+AllCare Health
+IT Department
+Grants Pass, OR
+
+Re: Service Desk Technician I -- Requisition ID 1205
+
+Dear Hiring Team,
+
+I am writing to apply for the Service Desk Technician I position with AllCare Health's IT Department. AllCare's commitment to community health and its Certified B Corp status reflect the kind of mission-driven organization I want to contribute to long term. I bring 15+ years of hands-on IT support experience spanning help desk, end-user support, Active Directory administration, hardware troubleshooting, and network connectivity -- a strong match for the scope of this role.
+
+My most relevant experience includes:
+
+Help desk and end-user support: At Teleperformance/Dell Tier 2, I resolved 40+ technical issues per day via phone and remote desktop, covering hardware diagnostics, software troubleshooting, and escalated case resolution across Windows environments. I was promoted to Resolution Specialist, mentoring peers on complex cases. At RidgeCrest Herbals, I served as the sole IT resource for a 15-person team -- managing desktops, workstations, VoIP, and day-to-day support with no escalation path above me.
+
+Ticketing, documentation, and workflow: I have worked within ticket-based support systems throughout my career, prioritizing issues by severity, documenting steps and resolutions, and following up to closure. I understand the discipline required to keep queues moving and stakeholders informed.
+
+Active Directory and user lifecycle: At ITT Systems, I provisioned workstations for domain joining, managed user accounts (creation, modification, disabling, password resets), and handled onboarding and offboarding in a DoD-classified environment with strict security requirements.
+
+Hardware and software: I am experienced supporting Windows XP through 11, Windows Server, and Linux (Debian, Ubuntu, Arch, Manjaro) environments. I hold a CompTIA A+ certification, which aligns with your preferred credentials, and I am comfortable with imaging, patch management, printer and peripheral repair, and network connectivity troubleshooting including DNS and Active Directory access issues.
+
+I am familiar with HIPAA compliance requirements and understand the confidentiality obligations that come with access to patient and provider records. I hold a valid Oregon Driver's License with current vehicle insurance and am prepared to travel to remote offices as needed. I am also comfortable participating in a shared, predictable on-call rotation.
+
+I am based in Medford, OR -- approximately 30 minutes from Grants Pass -- and am available immediately for full-time employment. I would welcome the opportunity to speak with your team about how my background supports AllCare Health's IT needs.
+
+Thank you sincerely for your consideration.
+
+Sincerely,
+Allen Schultz
+801-550-0865
+allen.schultz@gmail.com
+linkedin.com/in/allen-schultz-89810014

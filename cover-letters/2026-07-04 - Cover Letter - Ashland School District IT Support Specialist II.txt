@@ -1,0 +1,37 @@
+Allen Schultz
+Medford, OR 97504
+801-550-0865
+allen.schultz@gmail.com
+
+July 4, 2026
+
+Ashland School District 5
+Technology Department
+885 Siskiyou Boulevard
+Ashland, OR 97520
+
+Re: IT Support Specialist II (Job ID 1207 / Posting 26-65)
+
+Dear Hiring Team,
+
+I am writing to apply for the IT Support Specialist II position with Ashland School District's Technology Department. I am drawn to this role because it combines the hands-on technical support work I have done throughout my career with the opportunity to serve students and educators in a community I care about. I bring 15+ years of IT support experience, a CompTIA A+ certification, and a consistent track record of solving problems independently and communicating clearly with non-technical users.
+
+My most relevant experience includes:
+
+End-user help desk and hardware support: At Teleperformance/Dell Tier 2, I resolved 40+ technical issues daily via phone and remote desktop, covering hardware diagnostics, software troubleshooting, and escalated case resolution. I was promoted to Resolution Specialist, mentoring peers on complex cases. At RidgeCrest Herbals, I served as the sole IT resource for a 15-person team — managing desktops, workstations, printers, VoIP, and day-to-day support end to end.
+
+Software and hardware installation and maintenance: I have installed, configured, and maintained Windows workstations (XP through 11), managed system imaging and patch management, and supported multi-site environments requiring travel between locations. I am comfortable transporting and setting up equipment in varied environments.
+
+Server and network support: At ITT Systems, I provisioned workstations for domain joining, managed Active Directory user accounts through the full lifecycle (create, modify, disable, password reset), and troubleshot network connectivity issues in a classified DoD environment. I also hold a Certificate of Proficiency in Linux System Administration (SLCC, 2017) and have hands-on experience with Debian, Ubuntu, and Arch Linux systems.
+
+User training and documentation: I have developed written documentation for end-user processes and provided one-on-one and group instruction on hardware and software use. I understand that in a school environment, the ability to communicate clearly and patiently with staff and students is as important as technical skill.
+
+I hold a CompTIA A+ certification, LPI Linux Essentials certification (2023), and an Associate of Science in Computer Science (SLCC, 2004). I am based in Medford, approximately 15 minutes from Ashland, and am available immediately for full-time employment.
+
+I would welcome the opportunity to contribute to Ashland School District's technology team. Thank you for your consideration.
+
+Sincerely,
+Allen Schultz
+801-550-0865
+allen.schultz@gmail.com
+linkedin.com/in/allen-schultz-89810014

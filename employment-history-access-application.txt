@@ -1,0 +1,127 @@
+EMPLOYMENT HISTORY — Allen Dean Schultz
+Prepared for: ACCESS Affordable Housing Application
+Date: June 23, 2026
+========================================
+
+1. CURRENT — Uber Eats (Independent Delivery Contractor)
+   Position:  Food Delivery Driver / Independent Contractor
+   Dates:     2023 – Present
+   Employer:  Uber Technologies, Inc.
+   Address:   1515 3rd Street, San Francisco, CA 94158
+   Phone:     1-800-253-9377
+   Notes:     Self-employed independent contractor; supplemental/gig income
+
+----------------------------------------
+
+2. Harry and David (1-800-Flowers.com, Inc.)
+   Position:  Seasonal Data Entry Associate
+   Dates:     September 2023 – January 2026 (three seasonal deployments)
+              Season 1: Sept 27, 2023 – Jan 5, 2024
+              Season 2: Oct 9, 2024 – Feb 7, 2025
+              Season 3: Sept 3, 2025 – Jan 2, 2026
+   Employer:  1-800-Flowers Team Services Inc.
+   Address:   PO Box 712, Medford, OR 97501
+   Separation: Laid off — end of seasonal work
+   Duties:    High-volume data entry of orders into management system;
+              data verification and reconciliation in e-commerce environment
+
+----------------------------------------
+
+3. Superior Service Transport
+   Position:  Driver Check-in Clerk / Scheduling
+   Dates:     April 2023 – July 2023 (Contract)
+   Location:  Salt Lake City, UT
+   Duties:    Verified and documented transport orders; processed truck
+              manifests; weekly load/route scheduling; coordinated with
+              drivers and facilities
+
+----------------------------------------
+
+4. RidgeCrest Herbals
+   Position:  Linux System Administrator & VoIP Administrator
+   Dates:     May 2012 – February 2014
+   Location:  Salt Lake City, UT
+   Duties:    Primary Linux infrastructure administrator; managed servers,
+              backup systems, and virtualization; migrated company telephony
+              to FreeSWITCH VoIP; deployed 15 SIP phones and reduced
+              telephony costs 60%
+
+----------------------------------------
+
+5. ITT Systems (DoD Contractor)
+   Position:  Network Administrator (Security Clearance)
+   Dates:     September 2009 – May 2010
+   Location:  Afghanistan (deployed)
+   Duties:    Maintained classified Cisco network infrastructure supporting
+              200+ users; Active Directory administration; workstation
+              provisioning; DoD security compliance; earned CompTIA
+              Security+ during deployment
+
+----------------------------------------
+
+6. Teleperformance USA
+   Total Tenure: May 2005 – October 2008
+   Location:  Salt Lake City, UT
+
+   a) Hardware Support Technician — Dell Tier 2 Contract
+      Dates:  July 2007 – October 2008
+      Duties: Advanced hardware diagnostics; 40+ issues resolved daily;
+              remote desktop support; mentored junior agents
+
+   b) Internet Support Specialist — Clearwire Contract
+      Dates:  April 2006 – July 2007
+      Duties: Tier 2 technical support; VoIP SME; wireless broadband support
+
+   c) Cable TV Support Technician — Cox Contract
+      Dates:  May 2005 – March 2006
+      Duties: Technical and billing support; AS/400 database; QA 80%+
+
+----------------------------------------
+
+7. United States Postal Service
+   Position:  Data Conversion Operator
+   Dates:     December 2001 – January 2004
+   Location:  Salt Lake City, UT
+   Duties:    High-volume mail piece address image coding; under 4% error
+              rate; met strict daily production quotas
+
+----------------------------------------
+
+8. Convergys
+   Total Tenure: April 2000 – November 2001
+   Location:  Murray, UT
+
+   a) Provisional Technical Engineer — AT&T Managed Internet Services
+      Dates:  August 2000 – November 2001
+      Duties: Managed T1/Frame Relay circuit installations; configured
+              Cisco routers; IP address allocation and subnet design;
+              AT&T Provisional Technical Engineer certified
+
+   b) @Home Internet Support Technician — AT&T Contract
+      Dates:  April 2000 – August 2000
+      Duties: Cable modem internet support; AS/400 database; NOC
+              coordination
+
+----------------------------------------
+
+9. Estrella Mountain Community College
+   Position:  Computer Lab Technician (Student Worker)
+   Dates:     September 1997 – December 1999
+   Location:  Avondale, AZ
+   Duties:    Assisted students with hardware/software; maintained lab
+              equipment; assisted in setting up a LAN at a local high school
+
+----------------------------------------
+
+10. Del Webb Corporation
+    Position:  Accounting Assistant (High School Internship)
+    Dates:     October 1996 – April 1997
+    Location:  Sun City West, AZ
+    Duties:    Data entry using AS/400; created and filed accounting reports;
+               records management and administrative support
+
+========================================
+Note: Career includes a period of family caregiving responsibilities
+(2014–2023) during which technical skills were maintained through
+personal infrastructure projects and self-directed study.
+========================================
