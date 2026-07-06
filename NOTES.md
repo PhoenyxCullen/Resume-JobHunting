@@ -448,7 +448,41 @@ Order #177521, shipped Aug 21, 2024. Serial: 8O08SC235433.
 
 ## Certifications to Pursue
 
-- **M365/O365** — exposed as gap during Kelley Create application (they require 3 yrs O365 experience). Entry cert: MS-900 (Foundation). Admin-level cert: MS-102 (Administrator). Self-study friendly. Do after immediate job/health priorities stabilize.
+### Master Cert Roadmap
+
+**Phase 1 — M365/IT Support (do ASAP, fills gap on local job applications)**
+
+| Exam | Name | Cost | Notes |
+|---|---|---|---|
+| MD-102 | Endpoint Administrator Associate | $165 | No formal prereq — start here. Intune, Autopilot, Entra ID, Defender, PowerShell. Updated July 24 2026. Heavy but doable. |
+| MS-102 | Microsoft 365 Administrator Expert | $165 | Requires MD-102 (or MS-700 or SC-300). M365 tenant, Entra ID, Defender XDR, Purview. |
+
+- MS-900 (old entry-level fundamentals) — **RETIRED March 31, 2026** — skip it
+- MD-102 IS the entry point now — no formal prereq exam exists anymore
+- Study: free Microsoft Learn paths + free 90-day M365 developer tenant for hands-on lab
+- Ref: https://learn.microsoft.com/en-us/credentials/certifications/exams/md-102/
+- Ref: https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/md-102
+- Ref: https://learn.microsoft.com/en-us/credentials/certifications/exams/ms-102/
+- Ref: https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/ms-102
+- Ref: https://developer.microsoft.com/en-us/microsoft-365/dev-program (free 90-day dev tenant)
+
+**Phase 2 — Azure/DevOps (after MD-102 + MS-102, alongside Boot.dev)**
+
+| Exam | Name | Cost | Notes |
+|---|---|---|---|
+| AZ-900 | Azure Fundamentals | $165 | Optional but recommended baseline |
+| AZ-104 | Azure Administrator Associate | $165 | Linux on Azure, networking, storage — no formal prereq |
+| AZ-400 | DevOps Engineer Expert | $165 | Requires AZ-104 or AZ-204 — CI/CD, pipelines, infra automation |
+
+- Ref: https://learn.microsoft.com/en-us/credentials/certifications/exams/az-900/
+- Ref: https://learn.microsoft.com/en-us/credentials/certifications/exams/az-104/
+- Ref: https://learn.microsoft.com/en-us/credentials/certifications/exams/az-400/
+
+**Pearson VUE Testing Centers — Medford OR:**
+- 3560 Excel Drive Suite 105, Medford OR 97504
+- 4894 North Runway Drive Suite 103, Medford OR 97502 (near airport — better parking)
+- 1133 S. Riverside Ave Suite 4, Medford OR 97501 (downtown — avoid)
+- Schedule at: https://home.pearsonvue.com/microsoft
 
 ---
 
@@ -571,6 +605,20 @@ Browsing Facebook Marketplace for RV/housing options. Key finds:
 - **Tow dolly on Hurricane** means car can be towed behind — enables full mobile setup (RV parked, car for Uber/errands)
 - Needs to learn trailer driving — backing up is the hard part, forward towing is intuitive
 
+### JRV — 2014 Jayco Greyhawk 31FK (July 6, 2026)
+- Found JRV paperwork — destination travel trailer originally wanted was sold
+- **Stock #25964 — $44,900 - $100 dealer discount = $44,800**
+- Class C motorhome (self-driving, no tow vehicle needed)
+- 14,500 lbs | 32 feet | 52k miles
+- Water: 32 gal fresh / 40 gal grey / 32 gal black
+- Layout: Rear bath, front kitchen, rear bed, couch by side entry, dinette
+  - Dinette can likely be repurposed as office desk/chair area
+  - Over-driver cab storage
+  - Undercarriage storage (bowling balls, gear)
+- **Advantage over Montana:** self-driving Class C vs fifth wheel — no truck needed, move it yourself
+- **Price vs VSI:** $44,800 vs ~$28k backpay — needs financing or negotiation for the gap
+- JRV: johnsonrv.com — Medford OR
+
 ### Chelle Conversation — Thursday, July 3, 2026 (bowling)
 - Storage on homestead: **undecided** — may require frequent moving, not ideal for U-Haul pod contents
 - Montana fifth wheel parking: NOT going to Chelle's — will go to a permanent RV park instead
@@ -638,13 +686,13 @@ Browsing Facebook Marketplace for RV/housing options. Key finds:
 
 ### Session — Sunday, July 5, 2026
 
-#### System76 Support Call — Monday July 7
+#### System76 Support Call — Monday July 6
 - Ashvolund kernel panic during Qubes 4.3.1 initial update — one of 3 NVMe drives dropped out
 - Caused /dev/mapper/qubes-dom0-root not found on reboot
-- Ambient temp 73°F — not a heat issue — likely hardware seating or defect
-- Try reseating all 3 NVMe drives first, then call if issue persists
-- **Call System76 support Monday July 7** — Order #177521, Serial: 8O08SC235433
-- Check warranty status on call
+- Ambient temp 73°F — not a heat issue — likely NVMe thermals or seating
+- **Call System76 today** to ask about opening it up — Order #177521, Serial: 8O08SC235433
+- **NVMe thermal pads on order — ETA July 10–14** (at KNH) — install after they arrive
+- Hold off on reseating until after System76 call confirms it's OK
 
 #### cullenholme Boot Message — Resolved
 - Mystery "EFI boot partition file missing" message at boot was from the **SanDisk USB (sdd)** being scanned by UEFI firmware (Boot0006), not from cullenholme's own EFI partition
@@ -729,6 +777,9 @@ All 5 logged in job_hunting_log.csv.
 - Do NOT fill out Non-Receipt form until confirming check was not physically delivered
 
 ---
+
+## Errands — Pending
+- **Best Buy** — recycle old SK-653 keyboard (electronics recycling bin)
 
 ## Post-VSI Shopping List
 
