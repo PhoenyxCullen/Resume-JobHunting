@@ -159,8 +159,11 @@ titlespacing: {0pt}{−5pt}{4pt}
   - Separation reason: Laid off due to lack of work (seasonal end).
   - Keyboard typing into order management system. HR line: 541-864-2082.
 - **Superior Service Transport** — Driver Check-in Clerk/Scheduling, Apr–Jul 2023. Verified/scanned transport orders; weekly load/route optimization ("tetris" truck space). Specialized transport management system.
+  - Address: 3225 W California Ave, Unit 102, Salt Lake City, UT 84104 | Phone: 801-462-2535 | Web: shipsst.com
+  - **Rod Kynaston** — Owner/Operations Director — professional reference — work phone 801-462-2535
 - **Caregiving gap** — 2014–2023. Maintained skills through personal lab projects and self-study.
 - **RidgeCrest Herbals** — Linux Sysadmin & VoIP Admin, May 2012–Feb 2014. SSH/in-person support mostly. FreeSWITCH migration, PXE/TFTP automation.
+  - Address: 3683 W 2270 S, West Valley City, UT 84120 | Phone: 801-978-9633 | Web: rcherbals.com
 - **ITT Systems (DoD, Afghanistan)** — Network Admin, Sep 2009–May 2010. Primary: Cisco (VLANs, ACLs, routing). Secondary: Windows workstation provisioning (OS/Office/DoD settings), AD computer/user account management, SATCOM/crypto maintenance.
 - **Teleperformance USA** — Total tenure May 2005–Oct 2008, three contracts:
   - Dell Tier 2 (Jul 2007–Oct 2008): TeamViewer remote support (user goes to site, enters one-time code)
@@ -690,9 +693,11 @@ Browsing Facebook Marketplace for RV/housing options. Key finds:
 - Ashvolund kernel panic during Qubes 4.3.1 initial update — one of 3 NVMe drives dropped out
 - Caused /dev/mapper/qubes-dom0-root not found on reboot
 - Ambient temp 73°F — not a heat issue — likely NVMe thermals or seating
-- **Call System76 today** to ask about opening it up — Order #177521, Serial: 8O08SC235433
-- **NVMe thermal pads on order — ETA July 10–14** (at KNH) — install after they arrive
-- Hold off on reseating until after System76 call confirms it's OK
+- **Support ticket submitted Jul 6** — Ticket #27267 — asked about opening machine for NVMe thermal pads + active cooling without voiding warranty
+- **Voicemail left Jul 6** — Ticket #27265 — 720-226-9269 — same questions
+- Watch email (allen.schultz@gmail.com) for response from either ticket
+- **NVMe thermal pads on order — ETA July 10–14** (at KNH) — install after System76 confirms
+- Hold off on opening machine until System76 responds
 
 #### cullenholme Boot Message — Resolved
 - Mystery "EFI boot partition file missing" message at boot was from the **SanDisk USB (sdd)** being scanned by UEFI firmware (Boot0006), not from cullenholme's own EFI partition
@@ -740,21 +745,34 @@ Browsing Facebook Marketplace for RV/housing options. Key finds:
 - **Optional future protection:** Add `IgnorePkg = flameshot` to `/etc/pacman.conf` to prevent auto-upgrade
 - Status: Working as of July 4, 2026
 
-### OED — Week Jun 28–Jul 4 Activities (file next claim day)
+### OED — Week Jun 28–Jul 4 Activities — FILED Jul 6 2026 — Confirmation: 0-014-519-339
 5 work search activities completed this week:
-1. **AllCare Health** — Service Desk Technician I — applied via ADP (direct employer contact)
-2. **Ko-Kwel Casino Resort** — IT Help Desk Technician — applied via iSolved (direct employer contact)
-3. **Viasat** — Data Entry Support Trade Compliance — applied via iCIMS (direct employer contact)
-4. **Kalsoom Fatima (recruiter)** — LinkedIn connection — IT/network recruiter
-5. **Izhan Yousaf / Fixcruit** — LinkedIn connection — IT recruiter / CEO
+1. **AllCare Health** — Service Desk Technician I — applied via ADP — reported to OED: Other / Applied for job
+2. **Ko-Kwel Casino Resort** — IT Help Desk Technician — applied via iSolved — reported to OED: Other / Applied for job
+3. **Viasat** — Data Entry Support Trade Compliance — applied via iCIMS — reported to OED: Other / Applied for job
+4. **Kalsoom Fatima (recruiter)** — LinkedIn connection — IT/network recruiter — work search activity
+5. **Izhan Yousaf / Fixcruit** — LinkedIn connection — IT recruiter / CEO — work search activity
+
+Note: Include Viasat as 3rd direct contact even when only 2 required — documents ongoing activity and eventual Not Hired result when it comes back.
 
 All 5 logged in job_hunting_log.csv.
+
+### OED — Previously Reported Applications — Known Outcomes
+| Application | Reported Week | OED Status Reported | Actual Outcome |
+|---|---|---|---|
+| Tech People 247 / Sharp Brains | Jun 21–27 | Applied for job | Declined by Allen (bad contract) |
+| A First Choice Staffing | Jun 21–27 | Applied for job | In circulation — no response yet |
+| AllCare Health | Jun 28–Jul 4 | Applied for job | Still in review as of Jul 6 |
+| Ko-Kwel Casino Resort | Jun 28–Jul 4 | Applied for job | Still in review as of Jul 6 |
+| Viasat | Jun 28–Jul 4 | Applied for job | Still in review as of Jul 6 |
+| TekManagement Tier III | (Jun 28–Jul 4 week) | Applied for job | **REJECTED Jul 6** — report as Not Hired on Jul 5–11 claim |
+| OJD Release Assistance Officer | (Jun 21–27 week) | Applied for job | Rejected Jun 25 — report as Not Hired if not yet reported |
 
 ### Job Applications — July 4, 2026
 - **AllCare Health — Service Desk Technician I** — Grants Pass OR — $27.88–$32.69/hr — Req ID 1205 — submitted via ADP — resume: IT Tech Support — cover letter: `cover-letters/2026-07-04 - Cover Letter - AllCare Health Service Desk Technician I.txt` — attached LPI cert — follow up Jul 18
 - **Ko-Kwel Casino Resort — IT Help Desk Technician** — Medford OR — submitted via iSolved — resume: IT Tech Support — cover letter: `cover-letters/2026-07-04 - Cover Letter - Ko-Kwel Casino Resort IT Help Desk Technician.txt` — attached LPI cert — gaming license + background check required (tribal employer: Coquille Indian Tribe) — follow up Jul 18
 - **Viasat — Data Entry Support Trade Compliance** — Remote (OR) — $17.07–$27.16/hr — Job ID 6188 — submitted via iCIMS — resume: Data Entry — cover letter: `cover-letters/2026-07-04 - Cover Letter - Viasat Data Entry Support Trade Compliance.txt` — contingent/temp — US citizenship required — follow up Jul 18
-- **Ashland School District — IT Support Specialist II** — Ashland OR — $24.52–$30.25/hr — Job ID 1207 / Posting 26-65 — NOT yet submitted — cover letter ready: `cover-letters/2026-07-04 - Cover Letter - Ashland School District IT Support Specialist II.txt` — apply at applitrack.com/ashland5/onlineapp/ — **DEADLINE: July 29, 2026**
+- **Ashland School District — IT Support Specialist II** — Ashland OR — $24.52–$30.25/hr — Job ID 1207 / Posting 26-65 — **SUBMITTED Jul 6 2026 3:30pm** — via applitrack.com/ashland5/onlineapp/ — open until filled — resume + transcripts uploaded — references: Rod Kynaston, Brian Keller
 
 ### Declined — Sharp Brains / Hardy Industries
 - **Sharp Brains** (Tech People 247/Anaida Saleem) — already declined Jun 27 (bad contract: UK law, no guaranteed hours, personal liability, 30-day payment delay). Came up again as job suggestion Jul 4 — still declined.
@@ -764,17 +782,12 @@ All 5 logged in job_hunting_log.csv.
 - `LPI Linux Essentials Certificate - Allen Schultz.pdf` — copied from `~/Documents/LE-1.pdf`
 - Use as attachment on IT job applications
 
-### DFAS — Estate Check Wrong Zip Code
+### DFAS — Estate Check Wrong Zip Code — RESOLVED
 - **DFAS letter received:** Check for **$28,931.49** payable to **Estate of Penny Schultz** was mailed to wrong zip code
   - Address on check: 1717 View Pl, Medford OR **95704** (wrong — should be **97504**)
   - Letter signed by: **Sharon C. Somers** — DFAS — 1-667-894-4808
-- **Non-Receipt form** is on the back of the letter
-- **Allen's next steps:**
-  1. Check KNH mail for the physical check (despite wrong zip, may have been delivered)
-  2. Check car for any letter/check that may have arrived earlier
-  3. If not found: fill out Non-Receipt form (back of letter) and return to DFAS
-- **Contact:** Sharon C. Somers — 1-667-894-4808
-- Do NOT fill out Non-Receipt form until confirming check was not physically delivered
+- **Non-Receipt form filed Jul 6 2026** — Ilene Clark (executor) submitted online; used her own address (correct — estate payable to her as executor)
+- **Ilene deposited $5,500 Friday Jul 4** — funds for Dennis's RV purchase
 
 ---
 
