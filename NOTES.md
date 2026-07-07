@@ -234,13 +234,23 @@ titlespacing: {0pt}{−5pt}{4pt}
   - Location: **Providence McAndrews** — same building as general surgery — check in at outpatient counter, 2nd floor
   - Shannon callback: (541) 732-5082 — **CALL SHANNON when BP medicine is assigned** to confirm it doesn't interfere with stress test before Friday
 - **Appointment: Monday Aug 3, 10:00 AM — Wellness visit, Daniel P. Wood, DO** — arrive 9:45 AM
-- **BP medication decision — SENT Jun 27 via MyChart** — agreed to start both amlodipine (CCB) and losartan (ARB) at low doses in liquid formulation. Awaiting prescriptions from Sage Sherer PA-C. Providence closed weekends — prescriptions expected Monday.
+- **BP medication decision — SENT Jun 27 via MyChart** — agreed to start both amlodipine (CCB) and losartan (ARB) at low doses in liquid formulation. Prescriptions sent Jul 1 by Sage Sherer PA-C.
+  - Originally faxed to Cascade Pharmacy (White City) by mistake — corrected same day
+  - **Correct pharmacy: Wellness Compounding Pharmacy** — 522 Crater Lake Ave, Medford OR 97504 — **541-774-3939** — hours 9am–5:30pm
+  - **Cascade Pharmacy** (backup/reference) — 7591 Crater Lake Hwy, White City OR 97503 — **541-826-4414**
+  - Wellness confirmed NOT received as of Jul 6 — MyChart message sent to Sage Jul 6 3:55 PM asking to resend
+  - Jul 6 phone call to clinic: MA confirmed faxed to Cascade; Allen informed her Cascade doesn't compound, Wellness still hasn't received — she will reference MyChart note, add her own note, and call Allen back to confirm action taken — **awaiting callback**
 - **Stress test Jun 26 — completed** — results in MyChart (details in encrypted medical log)
 - **Sleep Medicine referral — APPROVED** — call PMG Medford Pulmonary to schedule: 1698 E McAndrews Rd Ste 300B, 541-732-7600 — **PREREQ: BP medication must be stable/at good baseline first — do not schedule until then**
 - **Chiropractor:** McFarland Chiropractic — (541) 772-5000 — 308 Howard St, Medford OR — $48/visit — **Appointment: Wed Jul 1, ~10:30 AM (unconfirmed) — be ready by 9:30 AM**
 - **Lab orders (from Dr. Sage Jun 22):** Hepatitis C antibody + HIV AG/AB 4th gen reflex — ON HOLD until BP medication is stable — do not schedule yet
 - **Community Resource Desk referral — APPROVED (Jun 22)** — schedule via (503) 893-6353 (Portland office) or Sylvia locally (541) 601-6793 — details in medical/
 - **Dtap vaccine overdue** — tetanus/pertussis booster — ask Providence to schedule
+- **Asante Financial Assistance — Case #1082559** — Presumptive approval Jun 17–Mar 14 2027 — **ACTION REQUIRED: complete full Financial Application and upload to Documents section in Asante MyChart** — currently 0 docs uploaded
+  - Application is a **PDF form** (no purely online form) — download English PDF from asante.org/patients-visitors/billing/financial-assistance/
+  - Submit by: uploading to Asante MyChart Documents section **OR** mail to P.O. Box 4749, Medford OR 97501
+  - Patient Financial Services: **(541) 789-4111** (option 2 for payment plans) or **(888) 608-7632**
+  - Response by mail within 10 days of receipt
 - **Oncology appointment: July 1, 2026** — arrive 1:50 PM, appt 2:20 PM (1 hour) — NP Consult with Radhika Gali, MD
   - Asante Heimann Cancer Center Hematology Oncology, 3011 E Barnett Rd, Medford OR 97504 — 541-789-4673
   - Cannot cancel online — must call to cancel
@@ -695,9 +705,9 @@ Browsing Facebook Marketplace for RV/housing options. Key finds:
 - Ambient temp 73°F — not a heat issue — likely NVMe thermals or seating
 - **Support ticket submitted Jul 6** — Ticket #27267 — asked about opening machine for NVMe thermal pads + active cooling without voiding warranty
 - **Voicemail left Jul 6** — Ticket #27265 — 720-226-9269 — same questions
-- Watch email (allen.schultz@gmail.com) for response from either ticket
-- **NVMe thermal pads on order — ETA July 10–14** (at KNH) — install after System76 confirms
-- Hold off on opening machine until System76 responds
+- **System76 confirmed Jul 6 (Jordi):** Opening machine to install thermal pads or add fan does NOT void warranty
+- Service manual: system76.com/service/bonobows (Bonobo WS Repairs) — use for disassembly/reassembly
+- **NVMe thermal pads on order — ETA July 10–14** (at KNH) — safe to install when they arrive
 
 #### cullenholme Boot Message — Resolved
 - Mystery "EFI boot partition file missing" message at boot was from the **SanDisk USB (sdd)** being scanned by UEFI firmware (Boot0006), not from cullenholme's own EFI partition
