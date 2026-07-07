@@ -706,6 +706,7 @@ Browsing Facebook Marketplace for RV/housing options. Key finds:
 - **Support ticket submitted Jul 6** — Ticket #27267 — asked about opening machine for NVMe thermal pads + active cooling without voiding warranty
 - **Voicemail left Jul 6** — Ticket #27265 — 720-226-9269 — same questions
 - **System76 confirmed Jul 6 (Jordi):** Opening machine to install thermal pads or add fan does NOT void warranty
+- **System76 confirmed Jul 6 (Jordi, ticket #27267):** No extra fans or additional cooling options in Bonobo WS beyond current setup — thermal pads are the only/best next step
 - Service manual: system76.com/service/bonobows (Bonobo WS Repairs) — use for disassembly/reassembly
 - **NVMe thermal pads on order — ETA July 10–14** (at KNH) — safe to install when they arrive
 
